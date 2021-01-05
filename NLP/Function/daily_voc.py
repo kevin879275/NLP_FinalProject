@@ -1,6 +1,7 @@
 import json
 import random
 import os
+from linggle import Linggle
 
 # 當前檔案的路徑
 
@@ -16,13 +17,8 @@ def getDailyVoc():
 
     key, value = random.choice(list(res.items()))
 
-    print(value['voc'] + " " + value['data'])
+    linggle = Linggle()
 
-    return value['voc'] + " " + value['data']
-# # 當前檔案的父路徑
+    #print(value['voc'] + " " + value['data'])
 
-# print(pwd)
-
-# father_path = os.path.abspath(os.path.dirname(pwd)+os.path.sep+".")
-
-# print(father_path)
+    return value['voc'] + " " + value['data'] + '\n' + linggle.query('_ ' + value['voc'])

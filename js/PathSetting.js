@@ -1,8 +1,10 @@
 var Path={}
-Path.rootSpace=__dirname+"/";
+const path=require("path");
+Path.rootSpace=path.dirname(__dirname)+"/";
 Path.jsFolder=`${Path.rootSpace}js/`;
 Path.functionsFolder=`${Path.rootSpace}functions/`;
-Path.settings=`${Path.rootSpace}settings.json`;
+Path.dataFolder=`${Path.rootSpace}data/`
+Path.settings=`${Path.dataFolder}settings.json`;
 Path.dictFolder=`${Path.rootSpace}dict/`;
 Path.pythonScriptsFolder=`${Path.rootSpace}NLP/`
 module.exports=Path;

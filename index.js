@@ -5,10 +5,11 @@ process.on('unhandledRejection', (reason, promise) => {
 
 try
 {
-    require("./main.js");
+    require("./js/main.js");
     error=false;
 }
 catch(e)
 {   
+    console.warn(e.message)
     process.exit(1);
 }

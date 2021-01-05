@@ -1,4 +1,4 @@
-const Path=require("../PathSetting");
+const Path=require("../js/PathSetting");
 const {Cmd} =require(`${Path.jsFolder}botHandler.js`);
 class Restart extends Cmd
 {

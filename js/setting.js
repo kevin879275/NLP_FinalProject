@@ -1,5 +1,5 @@
 const fs=require("fs");
-const Path=require("../PathSetting");
+const Path=require("./PathSetting");
 var Setting=class Setting
 {
     constructor(settingsPath=Path.settings)

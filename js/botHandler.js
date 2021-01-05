@@ -1,7 +1,7 @@
 const { red, green, blue, yellow, cyan } = require('chalk');
 const TFsymbol=new Map([[true,":ballot_box_with_check:"],[false,":x:"]]);
-const Path=require("../PathSetting");
-const HelpTranslate=require(Path.rootSpace+"translate.json");
+const Path=require("./PathSetting");
+const HelpTranslate=require(Path.dataFolder+"translate.json");
 var http = require('http');
 
 class BotCmdHandler

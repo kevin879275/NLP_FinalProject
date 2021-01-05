@@ -1,0 +1,326 @@
+{
+    "token": "NzA0NTczNDY1ODI2NDI2ODky.XqfHLA.VvUBP89-JnDkKrv99515Be8iQnw",
+    "prefix": "a",
+    "color": "#034df8",
+    "ops": [
+        "598916186595393578",
+        "329618009528336394",
+        "618077275434385409"
+    ],
+    "translate": "TW",
+    "functions": {
+        "nlp": {
+            "enable": true,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": true,
+            "filePath": "nlp.js",
+            "channels": [
+                "795968628624195624"
+            ]
+        },
+        "percent": {
+            "enable": true,
+            "type": "func",
+            "alias": [
+                "%"
+            ],
+            "op": false,
+            "selfcmd": true,
+            "filePath": "percent.js"
+        },
+        "emojiFollower": {
+            "enable": false,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": true,
+            "customEmoji": {
+                "669093059300032535": [
+                    "emoji_14",
+                    "emoji_2~1",
+                    "emoji_15",
+                    "emoji_4",
+                    "emoji_16",
+                    "emoji_8",
+                    "emoji_1",
+                    "emoji_1~1",
+                    "emoji_5~1"
+                ]
+            },
+            "emoji": [
+                "😀",
+                "😂",
+                "🤔",
+                "🤣",
+                "😅",
+                "😍"
+            ],
+            "random": true,
+            "randomMax": 5,
+            "filePath": "emojiFollower.js"
+        },
+        "randomOption": {
+            "enable": true,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": true,
+            "filePath": "randomOption.js"
+        },
+        "autoReply": {
+            "enable": true,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": true,
+            "helloArray": [
+                "你好",
+                "早安",
+                "安安",
+                "hola"
+            ],
+            "byeArray": [
+                "掰掰",
+                "拜拜",
+                "晚安",
+                "adios",
+                "bye",
+                "ㄅㄅ"
+            ],
+            "bannedWords": [
+                "安安怪",
+                "是在掰掰"
+            ],
+            "replyCd": 500,
+            "filePath": "autoReply.js",
+            "channels": [
+                "706171911050231828"
+            ]
+        },
+        "scrabble": {
+            "enable": true,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": true,
+            "dictName": [
+                "THUOCL_food.txt",
+                "THUOCL_chengyu.txt"
+            ],
+            "learn": true,
+            "learnOutputDictName": "learn.txt",
+            "replyOnmessage": false,
+            "waitReply": true,
+            "waitFor": 6000,
+            "randomWaitForMax": 9000,
+            "delay": 3000,
+            "randomDelayMax": 1200,
+            "selfScrabbleInfinite": true,
+            "channels": [
+                "795969486766342155"
+            ],
+            "filePath": "scrabble.js",
+            "andomWaitForMax": 3000
+        },
+        "help": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "?"
+            ],
+            "op": false,
+            "filePath": "help.js",
+            "dictName": "chinese.txt",
+            "selfcmd": true
+        },
+        "say": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "send"
+            ],
+            "op": false,
+            "filePath": "say.js",
+            "selfcmd": true
+        },
+        "avatar": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "a"
+            ],
+            "op": false,
+            "filePath": "avatar.js",
+            "selfcmd": true
+        },
+        "ping": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "p",
+                "P"
+            ],
+            "op": false,
+            "filePath": "ping.js",
+            "selfcmd": true
+        },
+        "status": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "s",
+                "st",
+                "sta",
+                "stat"
+            ],
+            "op": true,
+            "filePath": "status.js",
+            "selfcmd": true
+        },
+        "prefix": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [],
+            "op": true,
+            "filePath": "prefix.js",
+            "selfcmd": true
+        },
+        "op": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [],
+            "op": true,
+            "filePath": "op.js",
+            "selfcmd": true
+        },
+        "deop": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [],
+            "op": true,
+            "filePath": "op.js",
+            "selfcmd": true
+        },
+        "enable": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "en",
+                "on"
+            ],
+            "op": true,
+            "filePath": "enable.js",
+            "selfcmd": true
+        },
+        "disable": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "de",
+                "off"
+            ],
+            "op": true,
+            "filePath": "enable.js",
+            "selfcmd": true
+        },
+        "restart": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "R"
+            ],
+            "op": true,
+            "filePath": "restart.js",
+            "selfcmd": true
+        },
+        "add": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "A",
+                "push"
+            ],
+            "op": true,
+            "filePath": "add.js",
+            "selfcmd": true
+        },
+        "remove": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "rm",
+                "delete",
+                "D"
+            ],
+            "op": true,
+            "filePath": "add.js",
+            "selfcmd": true
+        },
+        "set": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "S"
+            ],
+            "op": true,
+            "filePath": "set.js",
+            "selfcmd": true
+        },
+        "getfile": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "get"
+            ],
+            "op": true,
+            "filePath": "getfile.js",
+            "selfcmd": true
+        },
+        "queue": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "q",
+                "排",
+                "排麥"
+            ],
+            "op": false,
+            "filePath": "queue.js",
+            "nthDisplay": [
+                "⬅\n🔜"
+            ],
+            "updatePeriod": 5000,
+            "DMuserOnmic": false,
+            "managerRoles": [
+                "703930185065693194",
+                "695756966148046872",
+                "695756966148046873"
+            ],
+            "selfcmd": true
+        },
+        "fans": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "fan"
+            ],
+            "op": false,
+            "filePath": "no"
+        },
+        "eventApply": {
+            "enable": false,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": false,
+            "filePath": "no",
+            "channels": [
+                "726345487304884264",
+                "723914591146606632"
+            ],
+            "selfCmd": false
+        }
+    }
+}

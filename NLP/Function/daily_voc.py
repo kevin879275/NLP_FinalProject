@@ -21,4 +21,4 @@ def getDailyVoc():
 
     #print(value['voc'] + " " + value['data'])
 
-    return value['voc'] + " " + value['data'] + '\n' + linggle.query('_ ' + value['voc'])
+    return value['voc'] + " " + value['data'] + '\n' + linggle.query('_ ' + value['voc'][0][0])

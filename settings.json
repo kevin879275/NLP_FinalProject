@@ -1,5 +1,5 @@
 {
-    "token": "NzA0NTczNDY1ODI2NDI2ODky.XqfHLA.VvUBP89-JnDkKrv99515Be8iQnw",
+    "token": "",
     "prefix": "a",
     "color": "#034df8",
     "ops": [
@@ -14,52 +14,11 @@
             "type": "func",
             "alias": [],
             "op": false,
-            "selfcmd": true,
+            "selfcmd": false,
             "filePath": "nlp.js",
             "channels": [
                 "795968628624195624"
             ]
-        },
-        "percent": {
-            "enable": true,
-            "type": "func",
-            "alias": [
-                "%"
-            ],
-            "op": false,
-            "selfcmd": true,
-            "filePath": "percent.js"
-        },
-        "emojiFollower": {
-            "enable": false,
-            "type": "func",
-            "alias": [],
-            "op": false,
-            "selfcmd": true,
-            "customEmoji": {
-                "669093059300032535": [
-                    "emoji_14",
-                    "emoji_2~1",
-                    "emoji_15",
-                    "emoji_4",
-                    "emoji_16",
-                    "emoji_8",
-                    "emoji_1",
-                    "emoji_1~1",
-                    "emoji_5~1"
-                ]
-            },
-            "emoji": [
-                "😀",
-                "😂",
-                "🤔",
-                "🤣",
-                "😅",
-                "😍"
-            ],
-            "random": true,
-            "randomMax": 5,
-            "filePath": "emojiFollower.js"
         },
         "randomOption": {
             "enable": true,
@@ -69,36 +28,6 @@
             "selfcmd": true,
             "filePath": "randomOption.js"
         },
-        "autoReply": {
-            "enable": true,
-            "type": "func",
-            "alias": [],
-            "op": false,
-            "selfcmd": true,
-            "helloArray": [
-                "你好",
-                "早安",
-                "安安",
-                "hola"
-            ],
-            "byeArray": [
-                "掰掰",
-                "拜拜",
-                "晚安",
-                "adios",
-                "bye",
-                "ㄅㄅ"
-            ],
-            "bannedWords": [
-                "安安怪",
-                "是在掰掰"
-            ],
-            "replyCd": 500,
-            "filePath": "autoReply.js",
-            "channels": [
-                "706171911050231828"
-            ]
-        },
         "scrabble": {
             "enable": true,
             "type": "func",
@@ -106,13 +35,12 @@
             "op": false,
             "selfcmd": true,
             "dictName": [
-                "THUOCL_food.txt",
-                "THUOCL_chengyu.txt"
+                "chinese.txt"
             ],
             "learn": true,
             "learnOutputDictName": "learn.txt",
-            "replyOnmessage": false,
-            "waitReply": true,
+            "replyOnmessage": true,
+            "waitReply": false,
             "waitFor": 6000,
             "randomWaitForMax": 9000,
             "delay": 3000,

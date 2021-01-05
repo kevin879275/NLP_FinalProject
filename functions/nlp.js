@@ -48,11 +48,11 @@ class Scrabble extends Functions
         if(!this.verifys(msg))return;
         
         content=this.regularizeString(msg.content);
-        PythonShell.run(`${Path.pythonScriptsFolder}argtest.py`, {args:[content,"second"]}, (err, data) => {
+        PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字"]}, (err, data) => {
             if(err)
-                console.log(err)
+                console.log(err);
             //const parsedString = JSON.parse(data)
-            console.log(`recive data from py ${data}`);
+            channel.send(data);
             //res.json(parsedString)
           })
         

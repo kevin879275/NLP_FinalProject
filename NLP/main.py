@@ -1,7 +1,8 @@
 import sys
 import json
+import Function.daily_voc
 
-instruction = {
-    'Function': sys.argv[1],
-    'data': sys.argv[2],
-}
+Function = sys.argv[1]
+
+if Function == '每日一字':
+    print(Function.daily_voc.getDailyVoc())

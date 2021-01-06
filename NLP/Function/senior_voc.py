@@ -1,5 +1,5 @@
 import json
-f = open('7000.txt', 'r')
+f = open('senior_voc.txt', 'r')
 words = f.read()
 
 word_list = words.split('\n')
@@ -15,4 +15,4 @@ for word in word_list:
 
     res[_word[0]] = {'voc': _word[0], 'data': _word[1]}
 
-json.dump(res, open("7000.json", "w"), indent=4, ensure_ascii=False)
+json.dump(res, open("senior_voc.json", "w"), indent=4, ensure_ascii=False)

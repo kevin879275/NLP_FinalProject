@@ -1,13 +1,12 @@
 import json
 import random
 import os
-from linggle import Linggle
 
 
-def getDailyVoc():
+def getDailyPrefix():
     parent = os.path.dirname(os.path.realpath(__file__))
 
-    path = os.path.dirname(parent) + '/Data/senior_voc.json'
+    path = os.path.dirname(parent) + '/Data/prefix.json'
 
     res = json.load(open(path, encoding='utf-8'))
 

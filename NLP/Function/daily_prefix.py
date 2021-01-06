@@ -12,7 +12,4 @@ def getDailyPrefix():
 
     key, value = random.choice(list(res.items()))
 
-    linggle = Linggle()
-
-    return(value['voc'] + " " + value['data'] + '\n' +
-           linggle.query('_ ' + value['voc'])[0][0])
+    return value

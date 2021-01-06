@@ -1,5 +1,6 @@
 const Path=require("../js/PathSetting");
 const {Cmd} =require(`${Path.jsFolder}botHandler.js`);
+const { PythonShell } = require('python-shell')
 class RootQuery extends Cmd
 {
     constructor(settingsManager,bot)
@@ -15,8 +16,7 @@ class RootQuery extends Cmd
     onmessage({cmd,args,msg,content,channel,author,member})
     {
         if(!this.verifys(msg))return;
-        
-        content=this.regularizeString(msg.content);
+
         PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["字根查詢",content]}, (err, data) => {
             if(err)
                 console.log(err);

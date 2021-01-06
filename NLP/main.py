@@ -16,5 +16,4 @@ elif function == '每日一字根':
 
 elif function == '字根查詢':
     voc = args[0]
-    status, res = Function.rootquery.fastfind_root(voc)
-    print('status: {}, {}'.format(status, res))
+    print(Function.rootquery.fastfind_root(voc))

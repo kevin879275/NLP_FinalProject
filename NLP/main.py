@@ -18,7 +18,7 @@ elif function == '每日一字根':
               + 'origin : ' + data['origin'] + '\n'
               + 'examples : ' + '\n' + '\n'.join(data['examples_definitions']))
 
-elif function == '字根分解':
+elif function == '字根查詢':
     voc = args[0]
     status, res = Function.rootquery.fastfind_root(voc)
     print('status: {}, {}'.format(status, res))

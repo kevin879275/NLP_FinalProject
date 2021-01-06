@@ -17,7 +17,7 @@ class RootQuery extends Cmd
     {
         if(!this.verifys(msg))return;
 
-        PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["字根查詢",content]}, (err, data) => {
+        PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["字根查詢",args[0]]}, (err, data) => {
             if(err)
                 console.log(err);
 

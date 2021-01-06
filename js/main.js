@@ -52,7 +52,25 @@ for(let key in settings.functions)
     }
     
 }
-bot.login(settings.token);
+/**
+ * readToken() -> (string) discord token
+ * @description  read token from token.txt (gitignore) or settings['token']
+ * @returns (string) token
+ */
+function readToken()
+{
+
+    var token="";
+    if(fs.existsSync(`${Path.dataFolder}token.txt`))
+    {
+        var data=fs.readFileSync(`${Path.dataFolder}token.txt`,'utf-8');
+        if(data.length>=59)
+            token=data.slice(0,59)
+    }
+    return  token || settings.token
+}
+
+bot.login(readToken());
 bot.on('ready', ()=>{
 
 });

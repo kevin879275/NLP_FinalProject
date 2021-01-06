@@ -1,7 +1,6 @@
 import json
 import gensim.downloader as api
 from gensim.models import Word2Vec
-from collections import *
 import re
 
 '''
@@ -14,10 +13,10 @@ with open('./prefix.json', encoding='utf8') as file:
     pre_bag = json.load(file)
 
 try:
-    model = Word2Vec.load("glove-twitter-25.model")
+    model = Word2Vec.load("fasttext-wiki-news-subwords-300.model")
 except:
-    model = api.load("glove-twitter-25")
-    model.save("glove-twitter-25.model")
+    model = api.load("fasttext-wiki-news-subwords-300")
+    model.save("fasttext-wiki-news-subwords-300.model")
 
 def words(s):
     return re.findall(r'\w+', s)
@@ -40,7 +39,7 @@ def find_root(s):
     
     return min(tmp, key = lambda x: (x[0], -x[1]))
 
-def build_root(threshold = 0.5):
+def build_root(threshold = 0.7):
     words_root = dict()
     for word in words_bag.keys():
         distance, _, root = find_root(word)
@@ -58,4 +57,6 @@ build_root()
 '''
 test = 'aahed'
 print(find_root(test))
+
+
 

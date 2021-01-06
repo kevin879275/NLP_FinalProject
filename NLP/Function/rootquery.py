@@ -8,6 +8,8 @@ def fastfind_root(s):
 
     roots = json.load(open(path, encoding='utf-8'))
     if s in roots:
-        return 'OK', roots[s]
+        tmp = roots[s]
+        tmp['status'] = 'OK'
+        return tmp
 
-    return 'Not Found', {} 
+    return {'status': 'Not Found'} 

@@ -1,6 +1,8 @@
 import json
 import gensim.downloader as api
 from gensim.models import Word2Vec
+from collections import *
+import re
 
 '''
     load files
@@ -17,27 +19,45 @@ except:
     model = api.load("glove-twitter-25")
     model.save("glove-twitter-25.model")
 
-def split_words(s):
-    return s.split(',')
+def words(s):
+    return re.findall(r'\w+', s)
 
-def segment(s):
-    dc = dict()
+def prefix_candicate(s):
+    candicate = []
     for i in range(1, len(s)+1):
-        pre = s[:i]
-        if pre in pre_bag:
-            meaning = split_words(pre_bag[pre]['meanings'])[0]
-            dc[pre] = meaning
-    return dc
+        candicate += pre_bag.get(s[:i], [])
+    return candicate
 
 def find_root(s):
-    dc = segment(s)
-    return min([(model.distance(s, v), k) for k, v in dc.items()], key = lambda x: x[0])
+    candicate = prefix_candicate(s)
+    if s not in model.vocab: return 100, 'model can not calculate', 'nan' 
 
-test = 'abandon'
+    tmp = []
+    for item in candicate:
+        for sen in words(item['meanings']):
+            if sen in model.vocab: tmp.append( (model.distance(s, sen), len(item['root_word']), item) )
+    if not len(tmp): return 100, 'no length', 'nan'
+    
+    return min(tmp, key = lambda x: (x[0], -x[1]))
+
+def build_root(threshold = 0.5):
+    words_root = dict()
+    for word in words_bag.keys():
+        distance, _, root = find_root(word)
+        if distance <= threshold: 
+            words_root[word] = root
+    json.dump(words_root, open("word_roots.json", "w"), indent=4)
+
+'''
+    Running
+'''
+build_root()
+
+'''
+    Testing
+'''
+test = 'aahed'
 print(find_root(test))
 
-# # test 10
-# for wd in list(words_bag.keys())[:1]:
-#     print(wd)
 
 

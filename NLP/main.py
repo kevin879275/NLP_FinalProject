@@ -12,7 +12,7 @@ if function == '每日一字':
 
 elif function == '每日一字根':
     res = Function.daily_prefix.getDailyPrefix()
-    print(json.dump(res))
+    print(json.dumps(res))
 
 elif function == '字根查詢':
     voc = args[0]

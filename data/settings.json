@@ -248,6 +248,15 @@
                 "723914591146606632"
             ],
             "selfCmd": false
+        },
+        "rootQuery": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "rq"
+            ],
+            "op": true,
+            "filePath": "rootquery.js"
         }
     }
 }

@@ -11,7 +11,7 @@ if function == '每日一字':
 elif function == '每日一字根':
     res = Function.daily_prefix.getDailyPrefix()
     for data in res:
-        print(data['root_word'] + '\n'
-              + data['meanings'] + '\n'
-              + data['origin'] + '\n'
-              + data['examples_definitions'])
+        print('root_word : ' + data['root_word'] + '\n'
+              + 'meanings : ' + data['meanings'] + '\n'
+              + 'origin : ' + data['origin'] + '\n'
+              + 'examples : ' + '\n' + '\n'.join(data['examples_definitions']))

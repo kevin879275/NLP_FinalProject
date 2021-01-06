@@ -1,0 +1,972 @@
+{
+    "able": [
+        {
+            "suffix": "able",
+            "meanings": "able to be",
+            "example": "excitable, portable, preventable"
+        }
+    ],
+    "ac": [
+        {
+            "suffix": "ac",
+            "meanings": "pertaining to",
+            "example": "cardiac, hemophiliac, maniac"
+        }
+    ],
+    "acity": [
+        {
+            "suffix": "acity",
+            "meanings": "quality of",
+            "example": "perspicacity, sagacity"
+        }
+    ],
+    "ocity": [
+        {
+            "suffix": "ocity",
+            "meanings": "quality of",
+            "example": "velocity"
+        }
+    ],
+    "ade": [
+        {
+            "suffix": "ade",
+            "meanings": "act, action or process, product",
+            "example": "blockade, cavalcade, promenade"
+        }
+    ],
+    "age": [
+        {
+            "suffix": "age",
+            "meanings": "action or process",
+            "example": "passage, pilgrimage, voyage"
+        }
+    ],
+    "aholic": [
+        {
+            "suffix": "aholic",
+            "meanings": "one with an obsession for",
+            "example": "workaholic, shopaholic"
+        }
+    ],
+    "oholic": [
+        {
+            "suffix": "oholic",
+            "meanings": "one with an obsession for",
+            "example": "alcoholic"
+        }
+    ],
+    "al": [
+        {
+            "suffix": "al",
+            "meanings": "relating to",
+            "example": "bacterial, theatrical, natural"
+        }
+    ],
+    "algia": [
+        {
+            "suffix": "algia",
+            "meanings": "pain",
+            "example": "neuralgia, nostalgia,"
+        }
+    ],
+    "an": [
+        {
+            "suffix": "an",
+            "meanings": "relating to, belonging to",
+            "example": "urban, African"
+        }
+    ],
+    "ian": [
+        {
+            "suffix": "ian",
+            "meanings": "relating to, belonging to",
+            "example": "Italian"
+        }
+    ],
+    "ance": [
+        {
+            "suffix": "ance",
+            "meanings": "state or quality of",
+            "example": "brilliance, defiance, annoyance"
+        }
+    ],
+    "ant": [
+        {
+            "suffix": "ant",
+            "meanings": "a person who",
+            "example": "applicant, immigrant, servant"
+        },
+        {
+            "suffix": "ant",
+            "meanings": "inclined to, tending to",
+            "example": "brilliant, defiant, vigilant"
+        }
+    ],
+    "": [
+        
+
+        
+       
+        
+        
+
+       
+
+        
+        
+        
+
+
+    ],
+    "ar": [
+        {
+            "suffix": "ar",
+            "meanings": "of or relating to, being",
+            "example": "lunar, molecular, solar"
+        },
+        {
+            "suffix": "ar",
+            "meanings": "a person who",
+            "example": "beggar, burglar, liar"
+        }
+    ],
+    "ard": [
+        {
+            "suffix": "ard",
+            "meanings": "a person who does an action",
+            "example": "coward, sluggard, wizard"
+        }
+    ],
+    "arian": [
+        {
+            "suffix": "arian",
+            "meanings": "a person who",
+            "example": "disciplinarian, vegetarian, librarian"
+        }
+    ],
+    "arium": [
+        {
+            "suffix": "arium",
+            "meanings": "a place for",
+            "example": "terrarium, aquarium, solarium"
+        }
+    ],
+    "orium": [
+        {
+            "suffix": "orium",
+            "meanings": "a place for",
+            "example": "terrarium, aquarium, solarium"
+        }
+    ],
+    "ary": [
+        {
+            "suffix": "ary",
+            "meanings": "of or relating to",
+            "example": "literary, military, budgetary"
+        }
+    ],
+    "ate": [
+        {
+            "suffix": "ate",
+            "meanings": "state or quality of (adj.)",
+            "example": "affectionate, desolate, obstinate"
+        },
+        {
+            "suffix": "",
+            "meanings": "makes the word a verb (different pronunciation)",
+            "example": "activate, evaporate, medicate"
+        }
+    ],
+    "ation": [
+        {
+            "suffix": "ation",
+            "meanings": "action or process",
+            "example": "creation, narration, emancipation"
+        }
+    ],
+    "ative": [
+        {
+            "suffix": "ative",
+            "meanings": "tending to (adj.)",
+            "example": "creative, preservative, talkative"
+        }
+    ],
+    "cide": [
+        {
+            "suffix": "cide",
+            "meanings": "act of killing",
+            "example": "homicide, suicide, genocide"
+        }
+    ],
+    "cracy": [
+        {
+            "suffix": "cracy",
+            "meanings": "rule, government, power",
+            "example": "bureaucracy, aristocracy, theocracy"
+        }
+    ],
+    "crat": [
+        {
+            "suffix": "crat",
+            "meanings": "someone who has power",
+            "example": "aristocrat, bureaucrat, technocrat"
+        }
+    ],
+    "cule": [
+        {
+            "suffix": "cule",
+            "meanings": "diminutive (making something small)",
+            "example": "molecule, ridicule,"
+        }
+    ],
+    "cy": [
+        {
+            "suffix": "cy",
+            "meanings": "state, condition or quality",
+            "example": "efficiency, privacy, belligerency"
+        }
+    ],
+    "cycle": [
+        {
+            "suffix": "cycle",
+            "meanings": "circle, wheel",
+            "example": "bicycle, recycle, tricycle"
+        }
+    ],
+    "dom": [
+        {
+            "suffix": "dom",
+            "meanings": "condition of, state, realm",
+            "example": "boredom, freedom, wisdom"
+        }
+    ],
+    "dox": [
+        {
+            "suffix": "dox",
+            "meanings": "belief, praise",
+            "example": "orthodox, paradox"
+        }
+    ],
+    "ectomy":[    
+        {
+            "suffix": "ectomy",
+            "meanings": "surgical removal of",
+            "example": "appendectomy, hysterectomy"
+        }
+    ],
+    "ed": [
+        {
+            "suffix": "ed",
+            "meanings": "past tense",
+            "example": "called, hammered, laughed"
+        }
+    ],
+    "ee": [
+        {
+            "suffix": "ee",
+            "meanings": "receiver, performer",
+            "example": "nominee, employee, devotee"
+        }
+    ],
+    "eer": [
+        {
+            "suffix": "eer",
+            "meanings": "associated with/engaged in",
+            "example": "engineer, volunteer"
+        }
+    ],
+    "emia": [
+        {
+            "suffix": "emia",
+            "meanings": "blood condition",
+            "example": "anemia, hypoglycemia, leukemia"
+        }
+    ],
+    "en": [
+        {
+            "suffix": "en",
+            "meanings": "makes the word a verb",
+            "example": "awaken, fasten, strengthen"
+        }
+    ],
+    "ence": [
+        {
+            "suffix": "ence",
+            "meanings": "state or condition, action",
+            "example": "absence, dependence, negligence"
+        }
+    ],
+    "ency": [
+        {
+            "suffix": "ency",
+            "meanings": "condition or quality",
+            "example": "clemency, dependency, efficiency"
+        }
+    ],
+    "ent": [
+        {
+            "suffix": "ent",
+            "meanings": "inclined to performing/causing, or one who performs/causes",
+            "example": "competent, correspondent, absorbent"
+        }
+    ],
+    "er": [
+        {
+            "suffix": "er",
+            "meanings": "more",
+            "example": "bigger, faster, happier"
+        },
+        {
+            "suffix": "er",
+            "meanings": "action or process",
+            "example": "flutter, ponder, stutter"
+        },
+        {
+            "suffix": "er",
+            "meanings": "a person who does an action",
+            "example": "announcer, barber, teacher"
+        }
+    ],
+    "ern": [
+        {
+            "suffix": "ern",
+            "meanings": "state or quality of",
+            "example": "eastern, northern, western"
+        }
+    ],
+    "escence": [
+        {
+            "suffix": "escence",
+            "meanings": "state or process",
+            "example": "adolescence, convalescence"
+        }
+    ],
+    "ese": [
+        {
+            "suffix": "ese",
+            "meanings": "relating to a place",
+            "example": "Chinese, Congolese, Vietnamese"
+        }
+    ],
+    "esque": [
+        {
+            "suffix": "esque",
+            "meanings": "in the style of",
+            "example": "Kafkaesque, grotesque, burlesque"
+        }
+    ],
+    "ess": [
+        {
+            "suffix": "ess",
+            "meanings": "female",
+            "example": "actress, heiress, lioness"
+        }
+    ],
+    "est": [
+        {
+            "suffix": "est",
+            "meanings": "most",
+            "example": "funniest, hottest, silliest"
+        }
+    ],
+    "etic": [
+        {
+            "suffix": "etic",
+            "meanings": "relating to (makes the word an adj.)",
+            "example": "athletic, energetic, poetic"
+        }
+    ],
+    "ette": [
+        {
+            "suffix": "ette",
+            "meanings": "diminutive (makes something smaller)",
+            "example": "cigarette, diskette, kitchenette"
+        }
+    ],
+    "ful": [
+        {
+            "suffix": "ful",
+            "meanings": "full of",
+            "example": "helpful, thankful, cheerful"
+        }
+    ],
+    "fy": [
+        {
+            "suffix": "fy",
+            "meanings": "make, cause (makes the word a verb)",
+            "example": "amplify, falsify, terrify"
+        }
+    ],
+    "gam": [
+        {
+            "suffix": "gam",
+            "meanings": "marriage, union",
+            "example": "monogam"
+        }
+    ],
+    "gamy": [
+        {
+            "suffix": "gamy",
+            "meanings": "marriage, union",
+            "example": "polygamy"
+        }
+    ],
+    "gon": [
+        {
+            "suffix": "gon",
+            "meanings": "angle",
+            "example": "hexagon, pentagon"
+        }
+    ],
+    "gonic": [
+        {
+            "suffix": "gonic",
+            "meanings": "angle",
+            "example": "polygonic"
+        }
+    ],
+    "hood": [
+        {
+            "suffix": "hood",
+            "meanings": "state, condition, or quality",
+            "example": "childhood, neighborhood, motherhood"
+        }
+    ],
+    "ial":[ 
+        {
+            "suffix": "ial",
+            "meanings": "relating to",
+            "example": "celestial, editorial, martial"
+        }
+    ],
+    "iasis": [
+        {
+            "suffix": "iasis",
+            "meanings": "diseased condition",
+            "example": "elephantiasis, psoriasis"
+        }
+    ],
+    "iatric": [
+        {
+            "suffix": "iatric",
+            "meanings": "healing practice",
+            "example": "pediatric, psychiatric,"
+        }
+    ],
+    "ible": [
+        {
+            "suffix": "ible",
+            "meanings": "able to be",
+            "example": "audible, plausible, legible"
+        }
+    ],
+    "ic": [
+        {
+            "suffix": "ic",
+            "meanings": "relating to, characterized by",
+            "example": "analytic/al, comic/al, organic"
+        }
+    ],
+    "ical": [
+        {
+            "suffix": "ical",
+            "meanings": "relating to, characterized by",
+            "example": "analytic/al, comic/al"
+        }
+    ],
+    "ile": [
+        {
+            "suffix": "ile",
+            "meanings": "relating to, capable of",
+            "example": "agile, docile, volatile"
+        }
+    ],
+    "ily": [
+        {
+            "suffix": "ily",
+            "meanings": "in what manner",
+            "example": "sloppily, steadily, zanily"
+        }
+    ],
+    "ine": [
+        {
+            "suffix": "ine",
+            "meanings": "relating to",
+            "example": "canine, feminine, masculine"
+        }
+    ],
+    "ing": [
+        {
+            "suffix": "ing",
+            "meanings": "materials",
+            "example": "bedding, frosting, roofing"
+        },
+        {
+            "suffix": "ing",
+            "meanings": "action or process",
+            "example": "dancing, seeing, writing"
+        }
+    ],
+    "ion": [
+        {
+            "suffix": "ion",
+            "meanings": "action or process",
+            "example": "celebration, completion, navigation"
+        }
+    ],
+    "ious": [
+        {
+            "suffix": "ious",
+            "meanings": "having the qualities of, full of",
+            "example": "ambitious, cautious, gracious"
+        }
+    ],
+    "ish": [
+        {
+            "suffix": "ish",
+            "meanings": "relating to, characteristic",
+            "example": "apish, brutish, childish"
+        }
+    ],
+    "ism": [
+        {
+            "suffix": "ism",
+            "meanings": "state or quality",
+            "example": "altruism, despotism, heroism"
+        }
+    ],
+    "ist": [
+        {
+            "suffix": "ist",
+            "meanings": "a person, one who does an action",
+            "example": "artist, linguist, pianist"
+        }
+    ],
+    "ite": [
+        {
+            "suffix": "ite",
+            "meanings": "resident of, follower, product of",
+            "example": "suburbanite, luddite, dynamite"
+        }
+    ],
+    "itis": [
+        {
+            "suffix": "itis",
+            "meanings": "inflammation, preoccupation",
+            "example": "appendicitis, tonsillitis, frontrunneritis"
+        }
+    ],
+    "ity": [
+        {
+            "suffix": "ity",
+            "meanings": "state, condition, or quality",
+            "example": "abnormality, civility, necessity"
+        }
+    ],
+    "ive": [
+        {
+            "suffix": "ive",
+            "meanings": "inclined to; quality of; that which",
+            "example": "attractive, expensive, repulsive"
+        }
+    ],
+    "ization": [
+        {
+            "suffix": "ization",
+            "meanings": "act or process of making",
+            "example": "colonization, fertilization, modernization"
+        }
+    ],
+    "ize": [
+        {
+            "suffix": "ize",
+            "meanings": "cause, treat, become",
+            "example": "antagonize, authorize, popularize"
+        }
+    ],
+    "less": [
+        {
+            "suffix": "less",
+            "meanings": "without",
+            "example": "fearless, helpless, homeless"
+        }
+    ],
+    "let": [
+        {
+            "suffix": "let",
+            "meanings": "version of",
+            "example": "booklet, droplet, inlet"
+        }
+    ],
+    "like": [    
+        {
+            "suffix": "like",
+            "meanings": "resembling, characteristic",
+            "example": "childlike, homelike, lifelike"
+        }
+    ],
+    "ling": [
+        {
+            "suffix": "ling",
+            "meanings": "younger or inferior",
+            "example": "duckling, underling"
+        }
+    ],
+    "loger": [
+        {
+            "suffix": "loger",
+            "meanings": "one who does",
+            "example": "astrologer,chronologer"
+        }
+    ],
+    "logist": [
+        {
+            "suffix": "logist",
+            "meanings": "one who does",
+            "example": "cardiologist"
+        }
+    ],
+    "log": [
+        {
+            "suffix": "log",
+            "meanings": "speech",
+            "example": "dialog, monolog,"
+        }
+    ],
+    "ly": [
+        {
+            "suffix": "ly",
+            "meanings": "in what manner",
+            "example": "badly, courageously, happily"
+        }
+    ],
+    "ment": [
+        {
+            "suffix": "ment",
+            "meanings": "action, result",
+            "example": "movement, placement, shipment"
+        }
+    ],
+    "ness": [
+        {
+            "suffix": "ness",
+            "meanings": "state or quality (makes a noun)",
+            "example": "kindness, shyness, weakness"
+        }
+    ],
+    "oid": [
+        {
+            "suffix": "oid",
+            "meanings": "resembling",
+            "example": "humanoid, tabloid, hemorrhoid"
+        }
+    ],
+    "ology":[
+        {
+            "suffix": "ology",
+            "meanings": "study of, science of",
+            "example": "anthropology, archaeology, biology"
+        }
+    ],
+    "oma": [
+        {
+            "suffix": "oma",
+            "meanings": "tumor, swelling",
+            "example": "carcinoma, osteoma, hematoma"
+        }
+    ],
+    "onym": [
+        {
+            "suffix": "onym",
+            "meanings": "name, word",
+            "example": "synonym, antonym, homonym"
+        }
+    ],
+    "opia": [
+        {
+            "suffix": "opia",
+            "meanings": "eye defect",
+            "example": "myopia, nyctalopia, hyperopia"
+        }
+    ],
+    "opsy": [
+        {
+            "suffix": "opsy",
+            "meanings": "examination",
+            "example": "biopsy, autopsy, necropsy"
+        }
+    ],
+    "or": [
+        {
+            "suffix": "or",
+            "meanings": "a person who",
+            "example": "inventor, legislator, translator"
+        }
+    ],
+    "ory": [
+        {
+            "suffix": "ory",
+            "meanings": "relating to",
+            "example": "armory, dormitory, laboratory"
+        }
+    ],
+    "osis": [
+        {
+            "suffix": "osis",
+            "meanings": "process, diseased condition",
+            "example": "diagnosis, prognosis, neurosis, psychosis"
+        }
+    ],
+    "ostomy": [
+        {
+            "suffix": "ostomy",
+            "meanings": "surgical",
+            "example": "colostomy"
+        }
+    ],
+    "otomy": [
+        {
+            "suffix": "otomy",
+            "meanings": "surgical",
+            "example": "lobotomy, craniotomy"
+        }
+    ],
+    "ous": [
+        {
+            "suffix": "ous",
+            "meanings": "full of",
+            "example": "hazardous, humorous, wondrous"
+        }
+    ],
+    "path": [
+        {
+            "suffix": "path",
+            "meanings": "one who engages in",
+            "example": "homeopath, naturopath, psychopath"
+        }
+    ],
+    "pathy": [
+        {
+            "suffix": "pathy",
+            "meanings": "feeling, diseased",
+            "example": "sympathy, apathy, neuropathy"
+        }
+    ],
+    "phile": [
+        {
+            "suffix": "phile",
+            "meanings": "one who loves",
+            "example": "bibliophile, audiophile, pyrophile"
+        }
+    ],
+    "phobia": [
+        {
+            "suffix": "phobia",
+            "meanings": "abnormal fear of",
+            "example": "acrophobia, claustrophobia, xenophobia"
+        }
+    ],
+    "phone": [
+        {
+            "suffix": "phone",
+            "meanings": "sound",
+            "example": "homophone, telephone, microphone"
+        }
+    ],
+    "phyte": [
+        {
+            "suffix": "phyte",
+            "meanings": "plant, to grow",
+            "example": "zoophyte, cryptophyte, epiphyte"
+        }
+    ],
+    "plegia": [
+        {
+            "suffix": "plegia",
+            "meanings": "paralysis",
+            "example": "paraplegia, quadriplegia, hemiplegia"
+        }
+    ],
+    "plegic": [
+        {
+            "suffix": "plegic",
+            "meanings": "one who is paralyzed",
+            "example": "paraplegic, technoplegic, quadriplegic"
+        }
+    ],
+    "pnea": [
+        {
+            "suffix": "pnea",
+            "meanings": "air, spirit",
+            "example": "apnea, hyperpnea, orthopnea"
+        }
+    ],
+    "scopy": [
+        {
+            "suffix": "scopy",
+            "meanings": "visual exam",
+            "example": "arthroscopy, gastroscopy"
+        }
+    ],
+    "scope": [
+        {
+            "suffix": "scope",
+            "meanings": "visual exam",
+            "example": "microscope"
+        }
+    ],
+    "scribe": [
+        {
+            "suffix": "scribe",
+            "meanings": "to write",
+            "example": "describe"
+        }
+    ],
+    "script": [
+        {
+            "suffix": "script",
+            "meanings": "to write",
+            "example": "transcript, manuscript"
+        }
+    ],
+    "sect": [
+        {
+            "suffix": "sect",
+            "meanings": "to cut",
+            "example": "dissect, insect, bisect"
+        }
+    ],
+    "ship": [
+        {
+            "suffix": "ship",
+            "meanings": "state or condition of, skill of",
+            "example": "authorship, citizenship, friendship"
+        }
+    ],
+    "sion": [
+        {
+            "suffix": "sion",
+            "meanings": "state or quality",
+            "example": "confusion, depression, tension"
+        }
+    ],
+    "some": [
+        {
+            "suffix": "some",
+            "meanings": "characterized by, group of",
+            "example": "cumbersome, quarrelsome, foursome"
+        }
+    ],
+    "sophy": [
+        {
+            "suffix": "sophy",
+            "meanings": "wisdom, knowledge",
+            "example": "philosophy, theosophy"
+        }
+    ],
+    "sophic": [
+        {
+            "suffix": "sophic",
+            "meanings": "wisdom, knowledge",
+            "example": "anthroposophic"
+        }
+    ],
+    "th":[        
+        {
+            "suffix": "th",
+            "meanings": "state or quality",
+            "example": "depth, length, strength"
+        }
+    ],
+    "tion": [
+        {
+            "suffix": "tion",
+            "meanings": "state or quality",
+            "example": "attention, caution, fascination"
+        }
+    ],
+    "tome": [
+        {
+            "suffix": "tome",
+            "meanings": "to cut",
+            "example": "epitome, tonsillotome"
+        }
+    ],
+    "tomy": [
+        {
+            "suffix": "tomy",
+            "meanings": "to cut",
+            "example": "hysterectomy"
+        }
+    ],
+    "trophy": [
+        {
+            "suffix": "trophy",
+            "meanings": "nourishment, growth",
+            "example": "atrophy, hypertrophy, dystrophy"
+        }
+    ],
+    "tude": [
+        {
+            "suffix": "tude",
+            "meanings": "state, condition or quality",
+            "example": "fortitude, gratitude, magnitude"
+        }
+    ],
+    "ty": [
+        {
+            "suffix": "ty",
+            "meanings": "state, condition or quality",
+            "example": "ability, honesty, loyalty"
+        }
+    ],
+    "ular": [
+        {
+            "suffix": "ular",
+            "meanings": "relating to or resembling",
+            "example": "cellular, circular, muscular"
+        }
+    ],
+    "uous": [
+        {
+            "suffix": "uous",
+            "meanings": "state or quality of",
+            "example": "arduous, tumultuous, virtuous"
+        }
+    ],
+    "ure": [
+        {
+            "suffix": "ure",
+            "meanings": "action, condition",
+            "example": "closure, erasure, failure"
+        }
+    ],
+    "ward": [
+        {
+            "suffix": "ward",
+            "meanings": "specifies direction",
+            "example": "backward, eastward, homeward"
+        }
+    ],
+    "ware": [
+        {
+            "suffix": "ware",
+            "meanings": "things of the same type or material",
+            "example": "hardware, software, kitchenware"
+        }
+    ],
+    "wise": [
+        {
+            "suffix": "wise",
+            "meanings": "in what manner or direction",
+            "example": "clockwise, lengthwise, otherwise"
+        }
+    ],
+    "y":[        
+        {
+            "suffix": "y",
+            "meanings": "made up of, characterized",
+            "example": "brainy, fruity, gooey"
+        }
+    ]
+}

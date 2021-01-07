@@ -24,5 +24,5 @@ def fastfind_suffix(s):
 
     return {'status': 'Not Found'} 
 
-print(fastfind_root('pre'))
-print(fastfind_suffix('pre'))
+# print(fastfind_root('pre'))
+# print(fastfind_suffix('pre'))

@@ -6,8 +6,8 @@ import re
 '''
     load files
 '''
-with open('./words_dictionary.json', encoding='utf8') as file:
-    words_bag = json.load(file)
+# with open('./words_dictionary.json', encoding='utf8') as file:
+#     words_bag = json.load(file)
 
 with open('./prefix.json', encoding='utf8') as file:
     pre_bag = json.load(file)
@@ -39,22 +39,23 @@ def find_root(s):
     
     return min(tmp, key = lambda x: (x[0], -x[1]))
 
-def build_root(threshold = 0.7):
+def build_root(dataset, threshold = 0.7):
     words_root = dict()
-    for word in words_bag.keys():
+    for word in dataset:
         distance, _, root = find_root(word)
         if distance <= threshold: 
             words_root[word] = root
-    json.dump(words_root, open("word_roots.json", "w"), indent=4)
+    json.dump(words_root, open("fasttext_roots.json", "w"), indent=4)
 
 '''
     Running
 '''
-build_root()
+build_root(dataset = model.vocab, threshold=0.7)
 
 '''
     Testing
 '''
+
 test = 'aahed'
 print(find_root(test))
 

@@ -24,5 +24,6 @@ def fastfind_suffix(s):
 
     return {'status': 'Not Found'} 
 
-# print(fastfind_root('pre'))
-# print(fastfind_suffix('pre'))
+if __name__ == "__main__":
+    print(fastfind_root('pre'))
+    print(fastfind_suffix('pre'))

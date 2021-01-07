@@ -15,5 +15,5 @@ def getDailyVoc():
 
     linggle = Linggle()
 
-    return(value['voc'] + " " + value['data'] + '\n' +
-           linggle.query('_ ' + value['voc'])[0][0])
+    value['example'] = linggle.get_example(value['voc'])[0]
+    return value

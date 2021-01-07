@@ -8,7 +8,7 @@ function = sys.argv[1]
 args = sys.argv[2:]
 
 if function == '每日一字':
-    print(Function.daily_voc.getDailyVoc())
+    print(json.dumps(Function.daily_voc.getDailyVoc()))
 
 elif function == '每日一字根':
     res = Function.daily_prefix.getDailyPrefix()

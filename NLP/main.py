@@ -23,3 +23,6 @@ elif function == 'linggle':
     voc = args[0]
     linggle = Linggle()
     print(linggle.query(voc))
+
+elif function == '每日一字尾':
+    print(json.dumps(Function.daily_suffix.getDailySuffix()))

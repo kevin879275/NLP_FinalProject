@@ -32,9 +32,9 @@ function shuffle(arr) {
   }
 function progressGen(val,full=100,config)
 {
-  config={...{showPercent:true,display:'|',empty:' ',len:10,todec:1},...config};
+  config={...{showPercent:true,showValue:false,display:'|',empty:' ',len:10,todec:1},...config};
   let p=val/full,dis=Math.round(p*config.len),emp=config.len-dis,pa=(p*100).toFixed(config.todec);
-  return `${config.display.repeat(dis)}${config.empty.repeat(emp)} ${config.showPercent?pa+'%':''}`
+  return `${config.display.repeat(dis)}${config.empty.repeat(emp)} ${config.showPercent?pa+'%':''} ${config.showValue?val:""}`
 }
 function isset(variable)
 {

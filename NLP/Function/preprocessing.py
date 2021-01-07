@@ -12,6 +12,9 @@ import re
 with open('./prefix.json', encoding='utf8') as file:
     pre_bag = json.load(file)
 
+with open('./words_suffix.json', encoding='utf8') as file:
+    suffix_bag = json.load(file)
+
 try:
     model = Word2Vec.load("fasttext-wiki-news-subwords-300.model")
 except:
@@ -27,37 +30,46 @@ def prefix_candicate(s):
         candicate += pre_bag.get(s[:i], [])
     return candicate
 
-def find_root(s):
-    candicate = prefix_candicate(s)
+def suffix_candicate(s):
+    candicate = []
+    for i in range(len(s)):
+        candicate += suffix_bag.get(s[i:], [])
+    return candicate
+
+def find_root(s, howcandicate):
     if s not in model.vocab: return 100, 'model can not calculate', 'nan' 
 
+    root_key = 'root_word' if howcandicate == prefix_candicate else 'suffix' 
+    candicate = howcandicate(s)
+    
     tmp = []
     for item in candicate:
         for sen in words(item['meanings']):
-            if sen in model.vocab: tmp.append( (model.distance(s, sen), len(item['root_word']), item) )
+            if sen in model.vocab: tmp.append( (model.distance(s, sen), len(item[root_key]), item) )
     if not len(tmp): return 100, 'no length', 'nan'
     
     return min(tmp, key = lambda x: (x[0], -x[1]))
 
-def build_root(dataset, threshold = 0.7):
+def build_root(dataset, threshold = 0.7, rootfunc = prefix_candicate):
     words_root = dict()
     for word in dataset:
-        distance, _, root = find_root(word)
+        distance, _, root = find_root(word, rootfunc)
         if distance <= threshold: 
             words_root[word] = root
-    json.dump(words_root, open("fasttext_roots.json", "w"), indent=4)
+    return words_root
 
 '''
     Running
 '''
-build_root(dataset = model.vocab, threshold=0.7)
+json.dump(build_root(dataset = model.vocab, threshold=0.7), open("fasttext_roots.json", "w"), indent=4)
+json.dump(build_root(dataset = model.vocab, threshold=0.7, rootfunc=suffix_candicate), open("fasttext_suffix.json", "w"), indent=4)
 
 '''
     Testing
 '''
-
 test = 'aahed'
-print(find_root(test))
+print(find_root(test, howcandicate=prefix_candicate))
+print(find_root(test, howcandicate=suffix_candicate))
 
 
 

@@ -17,7 +17,11 @@ elif function == '每日一字根':
 
 elif function == '字根查詢':
     voc = args[0]
-    print(Function.rootquery.fastfind_root(voc))
+    print(json.dumps(Function.rootquery.fastfind_root(voc)))
+
+elif function == '字尾查詢':
+    voc = args[0]
+    print(json.dumps(Function.rootquery.fastfind_suffix(voc)))
 
 elif function == 'linggle':
     voc = args[0]

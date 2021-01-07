@@ -1,10 +1,8 @@
 const Path=require("../js/PathSetting");
 const {Functions} =require(`${Path.jsFolder}botHandler.js`);
-const fs=require("fs");
-const readline = require('readline');
 const {random}=require(`${Path.jsFolder}util`);
 const { PythonShell } = require('python-shell');
-const Discord = require('discord.js');
+const { addSlashes, stripSlashes } = require('slashes');
 class Scrabble extends Functions
 {
     constructor(settingsManager,botHandler)
@@ -37,14 +35,28 @@ class Scrabble extends Functions
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字"]}, (err, data) => {
                 if(err)
                     console.log(err);
-                //const parsedString = JSON.parse(data)
-                ch.send(unescape(encodeURIComponent(data)));
+
+                var voc=JSON.parse(stripSlashes(data[0]));
+                
+                var embed =
+                {
+                    color:0x0099ff,
+                    author:{
+                        name:voc.voc
+                    },
+                    title:voc.data,
+                    description:voc.example
+
+                }
+                
+                
+                ch.send({embed:embed});
                 //res.json(parsedString)
               })
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字根"]}, (err, data) => {
                 if(err)
                     console.log(err);
-                const dicts = JSON.parse(data)
+                var dicts = JSON.parse(data)
                 for(let prefix of dicts)
                 {
                     var embed =
@@ -62,8 +74,34 @@ class Scrabble extends Functions
                     for(let exp of prefix.examples_definitions)
                     {
                         let [voc,sent] = exp.split(" - ");
+                        sent = sent || "no sentence example";
                         embed.fields.push({name:voc,value:sent})
                     }
+                    
+                }
+
+                ch.send({embed:embed});
+                //res.json(parsedString)
+              })
+              PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字尾"]}, (err, data) => {
+                if(err)
+                    console.log(err);
+                var dicts = JSON.parse(data)
+                for(let prefix of dicts)
+                {
+                    var embed =
+                    {
+                        color:0x0099ff,
+                        author:{
+                            name:"Daily Suffix"
+                        },
+                        title:prefix.root_word,
+                        description:`${prefix.meanings}`
+
+                    }
+
+                    embed.fields=[{name:`ex. `,value:prefix.example}]
+               
                     
                 }
 
@@ -103,7 +141,8 @@ class Scrabble extends Functions
     {
         if(!this.verifys(msg))return;
         
-        content=this.regularizeString(msg.content);
+        
+        
         
         
     }

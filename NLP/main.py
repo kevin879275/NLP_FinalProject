@@ -1,5 +1,6 @@
 import sys
 import json
+from linggle import Linggle
 import Function.daily_voc
 import Function.daily_prefix
 import Function.rootquery
@@ -17,3 +18,8 @@ elif function == '每日一字根':
 elif function == '字根查詢':
     voc = args[0]
     print(Function.rootquery.fastfind_root(voc))
+
+elif function == 'linggle':
+    voc = args[0]
+    linggle = Linggle()
+    print(linggle.query(voc))

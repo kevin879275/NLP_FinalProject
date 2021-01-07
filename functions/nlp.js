@@ -30,15 +30,15 @@ class Scrabble extends Functions
         var dt = new Date();
         var h=dt.getHours();
         var m=dt.getMinutes();
-        if(h!=this.settings.sendHour||m!=this.settings.sendMin)
-        {return;}
+        // if(h!=this.settings.sendHour||m!=this.settings.sendMin)
+        // {return;}
         for(let ch of this.channels)
         {
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字"]}, (err, data) => {
                 if(err)
                     console.log(err);
                 //const parsedString = JSON.parse(data)
-                ch.send(data);
+                ch.send(unescape(encodeURIComponent(data)));
                 //res.json(parsedString)
               })
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字根"]}, (err, data) => {

@@ -87,7 +87,7 @@ class Scrabble extends Functions
                 if(err)
                     console.log(err);
                 var dicts = JSON.parse(data)
-                for(let prefix of dicts)
+                for(let suffix of dicts)
                 {
                     var embed =
                     {
@@ -95,8 +95,8 @@ class Scrabble extends Functions
                         author:{
                             name:"Daily Suffix"
                         },
-                        title:prefix.root_word,
-                        description:`${prefix.meanings}`
+                        title:suffix.suffix,
+                        description:`${suffix.meanings}`
 
                     }
 

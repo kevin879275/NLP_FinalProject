@@ -100,7 +100,7 @@ class Scrabble extends Functions
 
                     }
 
-                    embed.fields=[{name:`ex. `,value:prefix.example}]
+                    embed.fields=[{name:`ex. `,value:suffix.example}]
                
                     
                 }

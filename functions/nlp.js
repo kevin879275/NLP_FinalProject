@@ -47,10 +47,16 @@ class Scrabble extends Functions
 
 
                 }
-
+                
+                try{
                 
                 ch.send({embed:embed});
                 ch.send({files:[{attachment: `https://myweb.ntut.edu.tw/~t105590029/php/googleTTSproxy.php?Text=${voc.voc}&Lang=en`,name:`${voc.voc}.mp3`}]})
+                }
+                catch(e)
+                {
+                    console.log(e.message)
+                }
                 //res.json(parsedString)
               })
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字根"]}, (err, data) => {
@@ -76,8 +82,13 @@ class Scrabble extends Functions
                     }
                     
                 }
-
-                ch.send({embed:embed});
+                try{
+                    ch.send({embed:embed});
+                }
+                catch(e)
+                {
+                    console.log(e.message)
+                }
                 //res.json(parsedString)
               })
               PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字尾"]}, (err, data) => {
@@ -99,8 +110,13 @@ class Scrabble extends Functions
                
                     
                 }
-
-                ch.send({embed:embed});
+                try{
+                    ch.send({embed:embed});
+                }
+                catch(e)
+                {
+                    console.log(e.message)
+                }
                 //res.json(parsedString)
               })
         }

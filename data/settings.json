@@ -1,1 +1,321 @@
-{"prefix":"a","color":"#034df8","ops":["598916186595393578","329618009528336394","618077275434385409"],"translate":"TW","functions":{"nlp":{"enable":true,"type":"func","alias":[],"op":false,"selfcmd":false,"checkPeriod":1,"sendHour":0,"sendMin":0,"filePath":"nlp.js","channels":["795968628624195624"]},"randomOption":{"enable":true,"type":"func","alias":[],"op":false,"selfcmd":true,"filePath":"randomOption.js"},"scrabble":{"enable":true,"type":"func","alias":[],"op":false,"selfcmd":true,"dictName":["chinese.txt","english.txt"],"learn":true,"learnOutputDictName":"learn.txt","replyOnmessage":true,"waitReply":false,"waitFor":6000,"randomWaitForMax":9000,"delay":3000,"randomDelayMax":1200,"selfScrabbleInfinite":true,"channels":["795969486766342155"],"filePath":"scrabble.js","andomWaitForMax":3000},"help":{"enable":true,"type":"cmd","alias":["?"],"op":false,"filePath":"help.js","dictName":"chinese.txt","selfcmd":true},"say":{"enable":false,"type":"cmd","alias":["send"],"op":false,"filePath":"say.js","selfcmd":true},"avatar":{"enable":true,"type":"cmd","alias":["a"],"op":false,"filePath":"avatar.js","selfcmd":true},"ping":{"enable":false,"type":"cmd","alias":["p","P"],"op":false,"filePath":"ping.js","selfcmd":true},"status":{"enable":true,"type":"cmd","alias":["s","st","sta","stat"],"op":true,"filePath":"status.js","selfcmd":true},"prefix":{"enable":true,"type":"cmd","alias":[],"op":true,"filePath":"prefix.js","selfcmd":true},"op":{"enable":true,"type":"cmd","alias":[],"op":true,"filePath":"op.js","selfcmd":true},"deop":{"enable":true,"type":"cmd","alias":[],"op":true,"filePath":"op.js","selfcmd":true},"enable":{"enable":true,"type":"cmd","alias":["en","on"],"op":true,"filePath":"enable.js","selfcmd":true},"disable":{"enable":true,"type":"cmd","alias":["de","off"],"op":true,"filePath":"enable.js","selfcmd":true},"restart":{"enable":true,"type":"cmd","alias":["R"],"op":true,"filePath":"restart.js","selfcmd":true},"add":{"enable":true,"type":"cmd","alias":["A","push"],"op":true,"filePath":"add.js","selfcmd":true},"remove":{"enable":true,"type":"cmd","alias":["rm","delete","D"],"op":true,"filePath":"add.js","selfcmd":true},"set":{"enable":true,"type":"cmd","alias":["S"],"op":true,"filePath":"set.js","selfcmd":true},"getfile":{"enable":true,"type":"cmd","alias":["get"],"op":true,"filePath":"getfile.js","selfcmd":true},"queue":{"enable":false,"type":"cmd","alias":["q","排","排麥"],"op":false,"filePath":"queue.js","nthDisplay":["⬅\n🔜"],"updatePeriod":5000,"DMuserOnmic":false,"managerRoles":["703930185065693194","695756966148046872","695756966148046873"],"selfcmd":true},"fans":{"enable":false,"type":"cmd","alias":["fan"],"op":false,"filePath":"no"},"eventApply":{"enable":false,"type":"func","alias":[],"op":false,"selfcmd":false,"filePath":"no","channels":["726345487304884264","723914591146606632"],"selfCmd":false},"rootQuery":{"enable":true,"type":"cmd","alias":["rq"],"op":false,"filePath":"rootquery.js"},"suffixQuery":{"enable":true,"type":"cmd","alias":["sq"],"op":false,"filePath":"rootquery.js"},"linggle":{"enable":true,"type":"cmd","alias":["lq","l","linggleQuery"],"op":false,"limit":10,"filePath":"linggle.js","selfcmd":false},"truthVerify":{"enable":true,"type":"cmd","alias":["check","truth","tc","tf","verify"],"op":false,"replys":[":x: Fake",":grey_question: Not Sure",":white_check_mark: Truth"],"thresholds":[-0.3333333333333333,0.3333333333333333],"filePath":"truthVerify.js"}}}
+{
+    "prefix": "a",
+    "color": "#034df8",
+    "ops": [
+        "598916186595393578",
+        "329618009528336394",
+        "618077275434385409"
+    ],
+    "translate": "TW",
+    "functions": {
+        "nlp": {
+            "enable": true,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": false,
+            "checkPeriod": 1,
+            "sendHour": 0,
+            "sendMin": 0,
+            "filePath": "nlp.js",
+            "channels": [
+                "795968628624195624"
+            ]
+        },
+        "randomOption": {
+            "enable": true,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": true,
+            "filePath": "randomOption.js"
+        },
+        "scrabble": {
+            "enable": true,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": true,
+            "dictName": [
+                "chinese.txt",
+                "english.txt"
+            ],
+            "learn": true,
+            "learnOutputDictName": "learn.txt",
+            "replyOnmessage": true,
+            "waitReply": false,
+            "waitFor": 6000,
+            "randomWaitForMax": 9000,
+            "delay": 3000,
+            "randomDelayMax": 1200,
+            "selfScrabbleInfinite": true,
+            "channels": [
+                "795969486766342155"
+            ],
+            "filePath": "scrabble.js",
+            "andomWaitForMax": 3000
+        },
+        "help": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "?"
+            ],
+            "op": false,
+            "filePath": "help.js",
+            "dictName": "chinese.txt",
+            "selfcmd": true
+        },
+        "say": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "send"
+            ],
+            "op": false,
+            "filePath": "say.js",
+            "selfcmd": true
+        },
+        "avatar": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "a"
+            ],
+            "op": false,
+            "filePath": "avatar.js",
+            "selfcmd": true
+        },
+        "ping": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "p",
+                "P"
+            ],
+            "op": false,
+            "filePath": "ping.js",
+            "selfcmd": true
+        },
+        "status": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "s",
+                "st",
+                "sta",
+                "stat"
+            ],
+            "op": true,
+            "filePath": "status.js",
+            "selfcmd": true
+        },
+        "prefix": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [],
+            "op": true,
+            "filePath": "prefix.js",
+            "selfcmd": true
+        },
+        "op": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [],
+            "op": true,
+            "filePath": "op.js",
+            "selfcmd": true
+        },
+        "deop": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [],
+            "op": true,
+            "filePath": "op.js",
+            "selfcmd": true
+        },
+        "enable": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "en",
+                "on"
+            ],
+            "op": true,
+            "filePath": "enable.js",
+            "selfcmd": true
+        },
+        "disable": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "de",
+                "off"
+            ],
+            "op": true,
+            "filePath": "enable.js",
+            "selfcmd": true
+        },
+        "restart": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "R"
+            ],
+            "op": true,
+            "filePath": "restart.js",
+            "selfcmd": true
+        },
+        "add": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "A",
+                "push"
+            ],
+            "op": true,
+            "filePath": "add.js",
+            "selfcmd": true
+        },
+        "remove": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "rm",
+                "delete",
+                "D"
+            ],
+            "op": true,
+            "filePath": "add.js",
+            "selfcmd": true
+        },
+        "set": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "S"
+            ],
+            "op": true,
+            "filePath": "set.js",
+            "selfcmd": true
+        },
+        "getfile": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "get"
+            ],
+            "op": true,
+            "filePath": "getfile.js",
+            "selfcmd": true
+        },
+        "queue": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "q",
+                "排",
+                "排麥"
+            ],
+            "op": false,
+            "filePath": "queue.js",
+            "nthDisplay": [
+                "⬅\n🔜"
+            ],
+            "updatePeriod": 5000,
+            "DMuserOnmic": false,
+            "managerRoles": [
+                "703930185065693194",
+                "695756966148046872",
+                "695756966148046873"
+            ],
+            "selfcmd": true
+        },
+        "fans": {
+            "enable": false,
+            "type": "cmd",
+            "alias": [
+                "fan"
+            ],
+            "op": false,
+            "filePath": "no"
+        },
+        "eventApply": {
+            "enable": false,
+            "type": "func",
+            "alias": [],
+            "op": false,
+            "selfcmd": false,
+            "filePath": "no",
+            "channels": [
+                "726345487304884264",
+                "723914591146606632"
+            ],
+            "selfCmd": false
+        },
+        "rootQuery": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "rq"
+            ],
+            "op": false,
+            "filePath": "rootquery.js"
+        },
+        "suffixQuery": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "sq"
+            ],
+            "op": false,
+            "filePath": "rootquery.js"
+        },
+        "linggle": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "lq",
+                "l",
+                "linggleQuery"
+            ],
+            "op": false,
+            "limit": 10,
+            "filePath": "linggle.js",
+            "selfcmd": false
+        },
+        "truthVerify": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "check",
+                "truth",
+                "tc",
+                "tf",
+                "verify"
+            ],
+            "op": false,
+            "replys": [
+                ":x: Fake",
+                ":grey_question: Not Sure",
+                ":white_check_mark: Truth"
+            ],
+            "thresholds": [
+                -0.3333333333333333,
+                0.3333333333333333
+            ],
+            "filePath": "truthVerify.js"
+        },
+        "spellSuggest": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "ss",
+                "spellCheck",
+                "spell"
+            ],
+            "op": false,
+            "filePath": "spellSuggest.js"
+        }
+    }
+}

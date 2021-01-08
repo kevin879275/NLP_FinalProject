@@ -41,16 +41,16 @@ class Scrabble extends Functions
                 var embed =
                 {
                     color:0x0099ff,
-                    author:{
-                        name:voc.voc
-                    },
-                    title:voc.data,
-                    description:voc.example
+                    title:`${voc.voc} : ${voc.data}`,
+                    description:voc.example,
+                    footer: {text:"Daily Vocabulary"}
+
 
                 }
-                
+
                 
                 ch.send({embed:embed});
+                ch.send({files:[{attachment: `https://myweb.ntut.edu.tw/~t105590029/php/googleTTSproxy.php?Text=${voc.voc}&Lang=en`,name:`${voc.voc}.mp3`}]})
                 //res.json(parsedString)
               })
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字根"]}, (err, data) => {
@@ -62,12 +62,9 @@ class Scrabble extends Functions
                     var embed =
                     {
                         color:0x0099ff,
-                        author:{
-                            name:"Daily Prefix"
-                        },
                         title:prefix.root_word,
-                        description:`${prefix.meanings}`
-
+                        description:`${prefix.meanings}`,
+                        footer: {text:"Daily Prefix/Root"}
                     }
 
                     embed.fields=[{name:"---------",value:"examples : "}]
@@ -92,11 +89,9 @@ class Scrabble extends Functions
                     var embed =
                     {
                         color:0x0099ff,
-                        author:{
-                            name:"Daily Suffix"
-                        },
                         title:suffix.suffix,
-                        description:`${suffix.meanings}`
+                        description:`${suffix.meanings}`,
+                        footer: {text:"Daily Suffix"}
 
                     }
 

@@ -9,8 +9,8 @@ class Linggle extends Cmd
     constructor(settingsManager,botHandler)
     {
         super(settingsManager,botHandler);
-        this.name="liggle";
-        this.defaultSetting.alias=["q"];
+        this.name="linggle";
+        this.defaultSetting.alias=["l","lq","linggleQuery"];
         this.defaultSetting.limit=10;
         this.defaultSetting.filePath= __filename.slice(__dirname.length + 1);
         this.settingsProcess();;

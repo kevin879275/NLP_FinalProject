@@ -271,11 +271,13 @@
             "op": false,
             "filePath": "rootquery.js"
         },
-        "liggle": {
+        "linggle": {
             "enable": true,
             "type": "cmd",
             "alias": [
-                "q"
+                "lq",
+                "l",
+                "linggleQuery"
             ],
             "op": false,
             "limit": 10,

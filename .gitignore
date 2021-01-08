@@ -135,3 +135,4 @@ data/token.txt
 
 # Local History for Visual Studio Code
 .history/
+*.pyc

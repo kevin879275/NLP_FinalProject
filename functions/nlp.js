@@ -22,27 +22,31 @@ class Scrabble extends Functions
         }
     }
  
-  
     tick()
     {
         var dt = new Date();
         var h=dt.getHours();
         var m=dt.getMinutes();
-        // if(h!=this.settings.sendHour||m!=this.settings.sendMin)
-        // {return;}
+        if(h!=this.settings.sendHour||m!=this.settings.sendMin)return;
+        this.sendVocs();
+    }
+    sendVocs()
+    {
+        
         for(let ch of this.channels)
         {
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字"]}, (err, data) => {
                 if(err)
                     console.log(err);
-
+                if(!data)
+                    return; // this is for data == null bug but i am not sure why main.py send back null print to stdout
                 var voc=JSON.parse(stripSlashes(data[0]));
                 
                 var embed =
                 {
                     color:0x0099ff,
                     title:`${voc.voc} : ${voc.data}`,
-                    description:voc.example,
+                    description:voc.example || ":x:",
                     footer: {text:"Daily Vocabulary"}
 
 
@@ -68,8 +72,8 @@ class Scrabble extends Functions
                     var embed =
                     {
                         color:0x0099ff,
-                        title:prefix.root_word,
-                        description:`${prefix.meanings}`,
+                        title:prefix.root_word||":x:",
+                        description:`${prefix.meanings}`||":x:",
                         footer: {text:"Daily Prefix/Root"}
                     }
 
@@ -78,7 +82,7 @@ class Scrabble extends Functions
                     {
                         let [voc,sent] = exp.split(" - ");
                         sent = sent || "no sentence example";
-                        embed.fields.push({name:voc,value:sent})
+                        embed.fields.push({name:voc||":x:",value:sent})
                     }
                     
                 }
@@ -100,8 +104,8 @@ class Scrabble extends Functions
                     var embed =
                     {
                         color:0x0099ff,
-                        title:suffix.suffix,
-                        description:`${suffix.meanings}`,
+                        title:suffix.suffix||":x:",
+                        description:`${suffix.meanings}`||":x:",
                         footer: {text:"Daily Suffix"}
 
                     }
@@ -130,7 +134,7 @@ class Scrabble extends Functions
             this.channels.push(channel)
         }
         this.tId=setInterval(()=>this.tick(),this.settings.checkPeriod*1000*60);
-        this.tick()
+        this.sendVocs()
     }
     regularizeString(string)
     {

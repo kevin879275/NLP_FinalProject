@@ -14,7 +14,15 @@ def getDailyVoc():
     key, value = random.choice(list(res.items()))
 
     linggle = Linggle()
-    example = linggle.get_example(value['voc'])[0]
-    example = example.replace('"', "")
-    value['example'] = example
+    res = linggle.get_example(value['voc'])
+    if res:
+        example = res[0]
+        example = example.replace('"', "")
+        value['example'] = example
+    else:
+        value['example'] = ''
     return value
+
+
+while(True):
+    print(getDailyVoc())

@@ -23,6 +23,3 @@ def getDailyVoc():
         value['example'] = ''
     return value
 
-
-while(True):
-    print(getDailyVoc())

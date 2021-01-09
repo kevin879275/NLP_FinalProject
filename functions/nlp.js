@@ -27,7 +27,7 @@ class Scrabble extends Functions
         var dt = new Date();
         var h=dt.getHours();
         var m=dt.getMinutes();
-        if(h!=this.settings.sendHour||m!=this.settings.sendMin)return;
+        //if(h!=this.settings.sendHour||m!=this.settings.sendMin)return;
         this.sendVocs();
     }
     sendVocs()
@@ -38,8 +38,8 @@ class Scrabble extends Functions
             PythonShell.run(`${Path.pythonScriptsFolder}main.py`, {args:["每日一字"]}, (err, data) => {
                 if(err)
                     console.log(err);
-                if(!data)
-                    return; // this is for data == null bug but i am not sure why main.py send back null print to stdout
+                // if(!data)
+                //     return; // this is for data == null bug but i am not sure why main.py send back null print to stdout
                 var voc=JSON.parse(stripSlashes(data[0]));
                 
                 var embed =

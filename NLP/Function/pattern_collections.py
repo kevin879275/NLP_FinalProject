@@ -5,15 +5,17 @@ sys.path.append(abspath(dirname(__file__)))
 from pattern.en import parse, Sentence
 from pattern.en import modality
 from pattern.en import suggest
+from pattern.en import sentiment
 
 
-def spell_suggest(s): return suggest(s)
+def spellSuggest(s): return suggest(s)
 
-def degree_of_sure(text):
+def sentimentAndSure(text):
     sent = parse(text, lemmata=True)
     sent = Sentence(sent)
-    return modality(sent)
+    senti, subject = sentiment(text)
+    return modality(sent), senti, subject
 
 if __name__ == "__main__":
-    print(spell_suggest('shiiit'))
-    print(degree_of_sure('sun is hot'))
+    print(spellSuggest('shiiit'))
+    print(sentimentAndSure('sun is hot'))

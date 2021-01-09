@@ -36,8 +36,8 @@ elif function == '每日一字尾':
 
 elif function == '拼字建議':
     voc = args[0]
-    print(json.dumps(Function.pattern_collections.spell_suggest(voc)), flush=True)
+    print(json.dumps(Function.pattern_collections.spellSuggest(voc)), flush=True)
 
-elif function == '語氣判斷':
+elif function == '句子判斷':
     sen = ' '.join(args)
-    print(json.dumps(Function.pattern_collections.degree_of_sure(sen)), flush=True)
+    print(json.dumps(Function.pattern_collections.sentimentAndSure(sen)), flush=True)

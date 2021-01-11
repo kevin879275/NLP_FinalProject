@@ -5,7 +5,7 @@
     "firebase-admin": "^8.11.0",
     "python-shell": "^2.0.3",
     "slashes": "^2.0.2"
-2. python : linggle
+2. python : linggle, nltk
 
 ### Functions
 #### Daily Vocabularay
@@ -16,6 +16,15 @@ Show a random root/prefix with meanings and examples in channels everyday.
 Show a random suffix with meanings and examples in channels everyday.
 #### Chinese Scrabble/Generator
 Send a random vocabulary start with last character of lastMessage in specific channels.
+#### Sentence degree of certainty/sentiment/subjectivity 
+Get sentence degree of certainty/sentiment/subjectivity 
+##### alias(also can be command):
+1. acheck
+2. ??
+##### command:
+```shell
+acheck I'm going to kill you soon
+```
 #### Root/Prefix Query
 Get the root/prefix which is same meaning of your input.
 ##### alias(also can be command):

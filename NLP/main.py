@@ -41,3 +41,7 @@ elif function == '拼字建議':
 elif function == '句子判斷':
     sen = ' '.join(args)
     print(json.dumps(Function.pattern_collections.sentimentAndSure(sen)), flush=True)
+
+elif function == '字首字根':
+    voc = args[0]
+    print(json.dumps(Function.rootquery.fastfind_prefixroot(voc)), flush=True)

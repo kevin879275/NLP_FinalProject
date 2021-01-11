@@ -34,7 +34,7 @@ def fastfind_prefixroot(s):
             v['status'] = 'OK'
         return roots[s]
 
-    return {'status': 'Not Found'} 
+    return [{'status': 'Not Found'}] 
 
 if __name__ == "__main__":
     print(fastfind_root('pre'))

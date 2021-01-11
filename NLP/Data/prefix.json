@@ -49,8 +49,6 @@
             "meanings": "not, without",
             "origin": "Greek",
             "examples_definitions": [
-                "abyss - without bottom",
-                "achromatic - without color",
                 "anhydrous - without water"
             ]
         }
@@ -64,7 +62,6 @@
                 "abduct - carry away by force",
                 "abnormal - away from normal, not normal",
                 "absent - away, not present",
-                "aversion - the act of turning away from",
                 "abbreviate: to shorten."
             ]
         }
@@ -75,11 +72,7 @@
             "meanings": "from, away, off",
             "origin": "Latin",
             "examples_definitions": [
-                "abduct - carry away by force",
-                "abnormal - away from normal, not normal",
-                "absent - away, not present",
-                "aversion - the act of turning away from",
-                "abbreviate: to shorten."
+                "absent - away, not present"
             ]
         }
     ],
@@ -90,8 +83,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "accelerate - to increase the speed of",
-                "accessible - easily entered, approached, or obtained",
-                "admittance - allowing into;"
+                "accessible - easily entered, approached, or obtained"
             ]
         }
     ],
@@ -101,8 +93,6 @@
             "meanings": "to, toward, near",
             "origin": "Latin",
             "examples_definitions": [
-                "accelerate - to increase the speed of",
-                "accessible - easily entered, approached, or obtained",
                 "admittance - allowing into;"
             ]
         }
@@ -149,8 +139,6 @@
             "meanings": "air",
             "origin": "Greek",
             "examples_definitions": [
-                "aerate - to let air reach something",
-                "aerial - relating to the air",
                 "aerospace - the air space"
             ]
         }
@@ -172,8 +160,7 @@
             "meanings": "farming",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "agriculture - management of the land, agribusiness - making money by utilizing land",
-                "agrarian - relating to the management of land"
+                "agriculture - management of the land, agribusiness - making money by utilizing land"
             ]
         }
     ],
@@ -183,8 +170,6 @@
             "meanings": "farming",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "agriculture - management of the land, agribusiness - making money by utilizing land",
-                "agrarian - relating to the management of land"
             ]
         }
     ],
@@ -206,9 +191,6 @@
             "meanings": "pain",
             "origin": "Latin",
             "examples_definitions": [
-                "neuralgia - pain caused by a nerve",
-                "analgesic - a drug that makes one pain free",
-                "nostalgia - aching for the familiar"
             ]
         }
     ],
@@ -230,9 +212,6 @@
             "meanings": "both, on both sides, around",
             "origin": "Latin",
             "examples_definitions": [
-                "ambidextrous - able to use both hands equally",
-                "ambiguous - having more than one meaning",
-                "ambivalence - conflicting or opposite feelings toward a person or thing"
             ]
         }
     ],
@@ -242,7 +221,6 @@
             "meanings": "walk, move",
             "origin": "Latin",
             "examples_definitions": [
-                "amble - to walk in a slow, relaxed way",
                 "ambulant - walking or moving around",
                 "ambulance - a vehicle that moves a patient"
             ]
@@ -255,8 +233,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "amiable - friendly, pleasant, lovable",
-                "amity - friendly and peaceful relations",
-                "amorous - showing romantic love"
+                "amity - friendly and peaceful relations"
             ]
         }
     ],
@@ -266,9 +243,6 @@
             "meanings": "love",
             "origin": "Latin",
             "examples_definitions": [
-                "amiable - friendly, pleasant, lovable",
-                "amity - friendly and peaceful relations",
-                "amorous - showing romantic love"
             ]
         }
     ],
@@ -303,8 +277,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "androgynous - being both male and female",
-                "android - resembling a human",
-                "misandry - hatred towards men"
+                "android - resembling a human"
             ]
         }
     ],
@@ -327,19 +300,16 @@
             "origin": "Latin",
             "examples_definitions": [
                 "anniversary - a date observed once a year",
-                "annual - happening once a year",
-                "millennium - 1,000 years"
+                "annual - happening once a year"
             ]
         }
     ],
     "annenn": [
         {
-            "root_word": "annenn",
+            "root_word": "enn",
             "meanings": "year",
             "origin": "Latin",
             "examples_definitions": [
-                "anniversary - a date observed once a year",
-                "annual - happening once a year",
                 "millennium - 1,000 years"
             ]
         }
@@ -374,7 +344,6 @@
             "meanings": "flower",
             "origin": "Greek",
             "examples_definitions": [
-                "chrysanthemum and amaranth - names of flowers",
                 "anthology - a collection of treasured writings",
                 "anthozoan - half plant, half animal, like anemones and corals."
             ]
@@ -399,8 +368,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "anthropology - the study of mankind",
-                "anthropomorphism - giving human form to non-human things",
-                "philanthropy - the love to mankind (expressed through good deeds)"
+                "anthropomorphism - giving human form to non-human things"
             ]
         }
     ],
@@ -422,7 +390,6 @@
             "meanings": "away, off, separate",
             "origin": "Greek",
             "examples_definitions": [
-                "aphorism - a short expression of a general truth",
                 "apology - an explicit expression of regret, apostrophe - a small dash used in place of an omitted letter"
             ]
         }
@@ -433,8 +400,7 @@
             "meanings": "away, off, separate",
             "origin": "Greek",
             "examples_definitions": [
-                "aphorism - a short expression of a general truth",
-                "apology - an explicit expression of regret, apostrophe - a small dash used in place of an omitted letter"
+                "aphorism - a short expression of a general truth"
             ]
         }
     ],
@@ -457,8 +423,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "aquarium - a water container for fish",
-                "aquatic- relating to water",
-                "aqueduct - a pipeline for water"
+                "aquatic- relating to water"
             ]
         }
     ],
@@ -503,10 +468,7 @@
             "meanings": "chief, most important, rule",
             "origin": "Greek",
             "examples_definitions": [
-                "archbishop - the highest ranking bishop",
-                "archenemy - chief or worst enemy",
-                "matriarch - a female who rules a group",
-                "monarch - a king or queen"
+                "archbishop - the highest ranking bishop"
             ]
         },
         {
@@ -514,8 +476,6 @@
             "meanings": "primitive, ancient",
             "origin": "Greek",
             "examples_definitions": [
-                "archaeology - the study of ancient cultures",
-                "archaic - belonging to an earlier period",
                 "archive - a collection of historical materials"
             ]
         }
@@ -527,8 +487,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "archaeology - the study of ancient cultures",
-                "archaic - belonging to an earlier period",
-                "archive - a collection of historical materials"
+                "archaic - belonging to an earlier period"
             ]
         }
     ],
@@ -551,7 +510,6 @@
             "origin": "LatinGreek",
             "examples_definitions": [
                 "arthroscope - a tool to see inside a joint",
-                "arthritis - inflammation of a joint",
                 "arthropod - invertebrates with jointed legs, like spiders, crustaceans, insects"
             ]
         }
@@ -575,19 +533,16 @@
             "origin": "Greek",
             "examples_definitions": [
                 "astronaut - a person traveling to the stars",
-                "astronomer - someone who studies the stars",
-                "asterisk - a star-shaped sign used as a reference tool"
+                "astronomer - someone who studies the stars"
             ]
         }
     ],
-    " aster": [
+    "aster": [
         {
             "root_word": " aster",
             "meanings": "star, stars, outer space",
             "origin": "Greek",
             "examples_definitions": [
-                "astronaut - a person traveling to the stars",
-                "astronomer - someone who studies the stars",
                 "asterisk - a star-shaped sign used as a reference tool"
             ]
         }
@@ -622,8 +577,6 @@
             "meanings": "hear",
             "origin": "Latin",
             "examples_definitions": [
-                "audible - loud enough to be heard",
-                "audience - people who listen to a program",
                 "audiovisual - relating to sound and vision"
             ]
         }
@@ -671,7 +624,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "baric - pertaining to pressure, esp. of the atmosphere",
-                "milliard - metric unit, equal to 1/1000th of a bar",
                 "baryon - heavy elementary particle"
             ]
         }
@@ -682,9 +634,6 @@
             "meanings": "pressure, weight",
             "origin": "Greek",
             "examples_definitions": [
-                "baric - pertaining to pressure, esp. of the atmosphere",
-                "milliard - metric unit, equal to 1/1000th of a bar",
-                "baryon - heavy elementary particle"
             ]
         }
     ],
@@ -695,8 +644,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "bellicose - warlike",
-                "belligerent - hostile, ready to fight",
-                "rebel - person who opposes and fights"
+                "belligerent - hostile, ready to fight"
             ]
         }
     ],
@@ -707,8 +655,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "bellicose - warlike",
-                "belligerent - hostile, ready to fight",
-                "rebel - person who opposes and fights"
+                "belligerent - hostile, ready to fight"
             ]
         }
     ],
@@ -742,9 +689,7 @@
             "meanings": "two, twice, once in every two",
             "origin": "Latin",
             "examples_definitions": [
-                "biannual - happening twice a year",
-                "binoculars - optical device with two lenses",
-                "bilateral - of or involving two sides"
+                "binoculars - optical device with two lenses"
             ]
         }
     ],
@@ -802,8 +747,6 @@
             "meanings": "cell, primitive, immature cell",
             "origin": "Greek",
             "examples_definitions": [
-                "blastula - an early stage of embryonic development",
-                "fibroblast - a cell that forms connective tissue",
                 "blastoderm - the layer surrounding the inside of an egg"
             ]
         }
@@ -849,7 +792,6 @@
             "meanings": "take, hold",
             "origin": "Latin",
             "examples_definitions": [
-                "intercept - to stop or interrupt;perceive - to take notice of something",
                 "captivating - taking hold of"
             ]
         }
@@ -860,8 +802,7 @@
             "meanings": "take, hold",
             "origin": "Latin",
             "examples_definitions": [
-                "intercept - to stop or interrupt;perceive - to take notice of something",
-                "captivating - taking hold of"
+                "intercept - to stop or interrupt;perceive - to take notice of something"
             ]
         }
     ],
@@ -871,8 +812,6 @@
             "meanings": "take, hold",
             "origin": "Latin",
             "examples_definitions": [
-                "intercept - to stop or interrupt;perceive - to take notice of something",
-                "captivating - taking hold of"
             ]
         }
     ],
@@ -894,7 +833,6 @@
             "meanings": "heart",
             "origin": "Greek",
             "examples_definitions": [
-                "cardiac - relating to the heart",
                 "cardiogenic - resulting from heart disease",
                 "cardiologist - a heart doctor"
             ]
@@ -918,9 +856,7 @@
             "meanings": "flesh, meat",
             "origin": "Latin",
             "examples_definitions": [
-                "carnivorous - flesh-eating",
-                "carnal - pertaining to the body or flesh",
-                "incarnate - given bodily form"
+                "carnivorous - flesh-eating"
             ]
         }
     ],
@@ -941,21 +877,18 @@
             "meanings": "to burn",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "cauterize - to burn with a hot instrument",
                 "caustic - capable of burning or eating away",
                 "holocaust - total devastation, especially by fire"
             ]
         }
     ],
-    " caut": [
+    "caut": [
         {
             "root_word": " caut",
             "meanings": "to burn",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "cauterize - to burn with a hot instrument",
-                "caustic - capable of burning or eating away",
-                "holocaust - total devastation, especially by fire"
+                "cauterize - to burn with a hot instrument"
             ]
         }
     ],
@@ -965,32 +898,26 @@
             "meanings": "go, yield",
             "origin": "Latin",
             "examples_definitions": [
-                "exceed - to go beyond the limits",
-                "recede - to go back",
-                "accessible - easily entered, approached, or obtained;"
+                "recede - to go back"
             ]
         }
     ],
-    " ceed": [
+    "ceed": [
         {
             "root_word": " ceed",
             "meanings": "go, yield",
             "origin": "Latin",
             "examples_definitions": [
-                "exceed - to go beyond the limits",
-                "recede - to go back",
-                "accessible - easily entered, approached, or obtained;"
+                "exceed - to go beyond the limits"
             ]
         }
     ],
-    " cess": [
+    "cess": [
         {
             "root_word": " cess",
             "meanings": "go, yield",
             "origin": "Latin",
             "examples_definitions": [
-                "exceed - to go beyond the limits",
-                "recede - to go back",
                 "accessible - easily entered, approached, or obtained;"
             ]
         }
@@ -1024,9 +951,7 @@
             "meanings": "hundred, hundredth",
             "origin": "Latin",
             "examples_definitions": [
-                "centennial- the 100th anniversary",
-                "centimeter - 1/100 of a meter",
-                "century - 100 years"
+                "centimeter - 1/100 of a meter"
             ]
         }
     ],
@@ -1048,9 +973,6 @@
             "meanings": "center",
             "origin": "Greek",
             "examples_definitions": [
-                "egocentric - self-centered",
-                "eccentric - not having a common center, not according to norm",
-                "centrifugal - moving outward from a center"
             ]
         }
     ],
@@ -1084,8 +1006,6 @@
             "meanings": "head",
             "origin": "Greek",
             "examples_definitions": [
-                "encephalitis - inflammation of the brain",
-                "cephalic - pertaining to the head",
                 "cephalopod - marine mollusks like octopus and squid who have tentacles growing from their head"
             ]
         }
@@ -1108,8 +1028,6 @@
             "meanings": "brain",
             "origin": "Latin",
             "examples_definitions": [
-                "cerebral - pertaining to the brain",
-                "cerebrate - to use the brain",
                 "cerebrospinal - pertaining to the brain and the spinal cord"
             ]
         }
@@ -1137,14 +1055,13 @@
             ]
         }
     ],
-    "chromo chromat": [
+    "chromat": [
         {
-            "root_word": "chromo chromat",
+            "root_word": "chromat",
             "meanings": "color, pigment",
             "origin": "Greek",
             "examples_definitions": [
-                "achromatic - without color",
-                "chromium - a blue-white metallic chemical element, chromatics - the study of color"
+                "achromatic - without color"
             ]
         }
     ],
@@ -1154,8 +1071,6 @@
             "meanings": "color, pigment",
             "origin": "Greek",
             "examples_definitions": [
-                "achromatic - without color",
-                "chromium - a blue-white metallic chemical element, chromatics - the study of color"
             ]
         }
     ],
@@ -1165,8 +1080,6 @@
             "meanings": "color, pigment",
             "origin": "Greek",
             "examples_definitions": [
-                "achromatic - without color",
-                "chromium - a blue-white metallic chemical element, chromatics - the study of color"
             ]
         }
     ],
@@ -1187,7 +1100,6 @@
             "meanings": "time",
             "origin": "Greek",
             "examples_definitions": [
-                "chronic - lasting for a long time",
                 "chronological - arranging events in time order, synchronize - happening at the same time"
             ]
         }
@@ -1209,7 +1121,6 @@
             "meanings": "gold, yellow",
             "origin": "Greek",
             "examples_definitions": [
-                "chrysanthemum and helichrysum - golden/yellow flowers",
                 "chrysolite - a yellowish gem"
             ]
         }
@@ -1221,7 +1132,6 @@
             "origin": "Latin",
             "examples_definitions": [
                 "homicide - murder",
-                "incisor - a sharp tooth for cutting food",
                 "insecticide - a chemical used to kill insects"
             ]
         }
@@ -1232,9 +1142,6 @@
             "meanings": "cut, kill",
             "origin": "Latin",
             "examples_definitions": [
-                "homicide - murder",
-                "incisor - a sharp tooth for cutting food",
-                "insecticide - a chemical used to kill insects"
             ]
         }
     ],
@@ -1250,15 +1157,12 @@
             ]
         }
     ],
-    " circle": [
+    "circle": [
         {
             "root_word": " circle",
             "meanings": "around, about",
             "origin": "Latin",
             "examples_definitions": [
-                "circumnavigate - to sail around",
-                "circumscribe - to draw around",
-                "circumspect - looking around"
             ]
         }
     ],
@@ -1268,9 +1172,7 @@
             "meanings": "shout, speak out",
             "origin": "Latin",
             "examples_definitions": [
-                "clamor - to shout and make noise",
-                "exclaim - to cry out loudly and suddenly",
-                "proclamation - something announced officially in public"
+                "exclaim - to cry out loudly and suddenly"
             ]
         }
     ],
@@ -1281,7 +1183,6 @@
             "origin": "Latin",
             "examples_definitions": [
                 "clamor - to shout and make noise",
-                "exclaim - to cry out loudly and suddenly",
                 "proclamation - something announced officially in public"
             ]
         }
@@ -1304,10 +1205,7 @@
             "meanings": "close",
             "origin": "Latin",
             "examples_definitions": [
-                "conclusion - the end or last part",
-                "exclusion - shutting out, rejecting",
-                "seclude - to keep away from",
-                "to isolate"
+                "seclude - to keep away from"
             ]
         }
     ],
@@ -1318,9 +1216,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "conclusion - the end or last part",
-                "exclusion - shutting out, rejecting",
-                "seclude - to keep away from",
-                "to isolate"
+                "exclusion - shutting out, rejecting"
             ]
         }
     ],
@@ -1424,7 +1320,6 @@
             "meanings": "against, opposite",
             "origin": "Latin",
             "examples_definitions": [
-                "contradict to argue against, Contraflow, contraception, contrary not in agreement, controversy disagreement"
             ]
         }
     ],
@@ -1447,7 +1342,6 @@
             "origin": "Latin",
             "examples_definitions": [
                 "corporation - a company recognized by law as a single body",
-                "corpse - a dead body",
                 "corporal - pertaining to the body"
             ]
         }
@@ -1471,8 +1365,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "cosmonaut - a Russian astronaut",
-                "cosmos - the universe",
-                "microcosm - a miniature universe"
+                "cosmos - the universe"
             ]
         }
     ],
@@ -1494,9 +1387,7 @@
             "meanings": "skull",
             "origin": "Greek",
             "examples_definitions": [
-                "craniology - the study of skull characteristics",
-                "cranium - skull of vertebrates",
-                "cranial - pertaining to the skull"
+                "craniology - the study of skull characteristics"
             ]
         }
     ],
@@ -1530,9 +1421,7 @@
             "meanings": "hidden, secret",
             "origin": "Greek",
             "examples_definitions": [
-                "cryptic - of hidden meaning",
-                "cryptography - science of secret codes",
-                "encrypt - encode into secret code"
+                "cryptography - science of secret codes"
             ]
         }
     ],
@@ -1563,7 +1452,6 @@
             "meanings": "run",
             "origin": "Latin",
             "examples_definitions": [
-                "concurrent- running parallel;\u00a0current- flowing easily and smoothly;\u00a0cursive-\u00a0having a flowing, easy, impromptu character"
             ]
         }
     ],
@@ -1610,20 +1498,16 @@
             "origin": "Greek",
             "examples_definitions": [
                 "decade - 10 years",
-                "decathlon - athletic contest that includes 10 disciplines in which each participant competes",
-                "December - formerly the 10th month of the Roman calendar"
+                "decathlon - athletic contest that includes 10 disciplines in which each participant competes"
             ]
         }
     ],
-    " deka": [
+    "deka": [
         {
             "root_word": " deka",
             "meanings": "ten",
             "origin": "Greek",
             "examples_definitions": [
-                "decade - 10 years",
-                "decathlon - athletic contest that includes 10 disciplines in which each participant competes",
-                "December - formerly the 10th month of the Roman calendar"
             ]
         }
     ],
@@ -1658,8 +1542,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "democracy - government of the people",
-                "demographic - the study of people",
-                "epidemic - spreading among people in a region"
+                "demographic - the study of people"
             ]
         }
     ],
@@ -1693,8 +1576,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "philodendron - a climbing plant that grows on trees",
-                "dendrochronology - dating events by studying growth rings in trees",
-                "dendriform - in the shape of a tree"
+                "dendrochronology - dating events by studying growth rings in trees"
             ]
         }
     ],
@@ -1704,8 +1586,6 @@
             "meanings": "tree",
             "origin": "Greek",
             "examples_definitions": [
-                "philodendron - a climbing plant that grows on trees",
-                "dendrochronology - dating events by studying growth rings in trees",
                 "dendriform - in the shape of a tree"
             ]
         }
@@ -1728,9 +1608,6 @@
             "meanings": "tooth",
             "origin": "Latin",
             "examples_definitions": [
-                "dental - relating to teeth",
-                "dentist - a doctor for the teeth",
-                "dentures - a set of false teeth"
             ]
         }
     ],
@@ -1753,7 +1630,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "dermatologist - a doctor for the skin",
-                "pachyderm - a class of animals with very thick skin (elephant, rhinoceros)",
                 "dermatitis - inflammation of the skin"
             ]
         }
@@ -1786,9 +1662,7 @@
             "meanings": "two, twice",
             "origin": "Greek",
             "examples_definitions": [
-                "dichromatic - displaying two colors",
-                "diploma - a certificate, literally \"a letter folded double\"",
-                "dilemma - a situation that requires a choice between two alternatives."
+                "diploma - a certificate, literally \"a letter folded double\""
             ]
         }
     ],
@@ -1858,9 +1732,7 @@
             "meanings": "give",
             "origin": "Latin",
             "examples_definitions": [
-                "donation - a contribution or gift",
-                "donor - someone who gives something",
-                "pardon - to give forgiveness for an offense"
+                "donation - a contribution or gift"
             ]
         }
     ],
@@ -1883,7 +1755,6 @@
             "origin": "Latin",
             "examples_definitions": [
                 "conduct - to lead musicians in playing music",
-                "educate - to lead to knowledge",
                 "deduction - a subtraction of an amount."
             ]
         }
@@ -1906,8 +1777,6 @@
             "meanings": "two, twice",
             "origin": "Latin",
             "examples_definitions": [
-                "duplicate - make an identical copy",
-                "duet - a musical composition for two voices or instruments",
                 "duo - a pair normally thought of as being together."
             ]
         }
@@ -2003,8 +1872,7 @@
             "origin": "",
             "examples_definitions": [
                 "empathy - intention to feel like another person",
-                "empower - put into power",
-                "engorge - make larger."
+                "empower - put into power"
             ]
         }
     ],
@@ -2014,8 +1882,6 @@
             "meanings": "into, cover with, cause",
             "origin": "",
             "examples_definitions": [
-                "empathy - intention to feel like another person",
-                "empower - put into power",
                 "engorge - make larger."
             ]
         },
@@ -2025,8 +1891,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "envision - to picture in the mind",
-                "enclose - lock inside",
-                "inwards - towards the inside."
+                "enclose - lock inside"
             ]
         }
     ],
@@ -2072,9 +1937,6 @@
             "meanings": "years",
             "origin": "Latin",
             "examples_definitions": [
-                "bicentennial - of or relating to an age or period of 200 years",
-                "centennial - of or relating to an age or period of 100 years",
-                "perennial -lasting through many years."
             ]
         }
     ],
@@ -2084,8 +1946,6 @@
             "meanings": "inside, inwards",
             "origin": "Latin",
             "examples_definitions": [
-                "envision - to picture in the mind",
-                "enclose - lock inside",
                 "inwards - towards the inside."
             ]
         }
@@ -2132,9 +1992,7 @@
             "meanings": "equal, equally",
             "origin": "Latin",
             "examples_definitions": [
-                "equidistant - an equal distance from two points",
-                "equanimity - calm temperament, evenness of temper",
-                "equation - a statement of equality."
+                "equidistant - an equal distance from two points"
             ]
         }
     ],
@@ -2156,9 +2014,7 @@
             "meanings": "work",
             "origin": "Greek",
             "examples_definitions": [
-                "ergonomics - study of the working environment",
-                "energy - the power to accomplish work",
-                "energetics - science that looks at energy and its transformation."
+                "ergonomics - study of the working environment"
             ]
         }
     ],
@@ -2180,9 +2036,6 @@
             "meanings": "feeling, sensation, beauty",
             "origin": "Latin",
             "examples_definitions": [
-                "esthetician - someone who beautifies",
-                "aesthetic - pertaining to a sense of beauty",
-                "kinesthesia - the sensation of bodily movement."
             ]
         }
     ],
@@ -2192,7 +2045,6 @@
             "meanings": "race, people",
             "origin": "Greek",
             "examples_definitions": [
-                "ethnic - pertaining to a defined group of people",
                 "ethnocentric - focusing on the ethnicity of people",
                 "ethnology - the science of people and races."
             ]
@@ -2229,8 +2081,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "extraordinary - beyond ordinary",
-                "extraterrestrial - outside the Earth",
-                "extrovert - an outgoing person."
+                "extraterrestrial - outside the Earth"
             ]
         }
     ],
@@ -2240,8 +2091,6 @@
             "meanings": "outside, beyond",
             "origin": "Latin",
             "examples_definitions": [
-                "extraordinary - beyond ordinary",
-                "extraterrestrial - outside the Earth",
                 "extrovert - an outgoing person."
             ]
         }
@@ -2300,8 +2149,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "deflect - to bend course because of hitting something",
-                "inflection - a bending in the voice's tone or pitch",
-                "flexible - easily bending."
+                "inflection - a bending in the voice's tone or pitch"
             ]
         }
     ],
@@ -2323,21 +2171,17 @@
             "meanings": "flower",
             "origin": "Latin",
             "examples_definitions": [
-                "florist - someone working with flowers",
                 "floral - flowerlike",
                 "flora - the plant life of a particular time or area"
             ]
         }
     ],
-    " fleur": [
+    "fleur": [
         {
             "root_word": " fleur",
             "meanings": "flower",
             "origin": "Latin",
             "examples_definitions": [
-                "florist - someone working with flowers",
-                "floral - flowerlike",
-                "flora - the plant life of a particular time or area"
             ]
         }
     ],
@@ -2380,9 +2224,7 @@
             "meanings": "break",
             "origin": "Latin",
             "examples_definitions": [
-                "fracture - a break",
-                "fragile - easy to break",
-                "fragment or fraction - a part or element of a larger whole;"
+                "fracture - a break"
             ]
         }
     ],
@@ -2392,7 +2234,6 @@
             "meanings": "break",
             "origin": "Latin",
             "examples_definitions": [
-                "fracture - a break",
                 "fragile - easy to break",
                 "fragment or fraction - a part or element of a larger whole;"
             ]
@@ -2452,9 +2293,7 @@
             "meanings": "stomach",
             "origin": "Greek",
             "examples_definitions": [
-                "gastric - pertaining to the stomach",
-                "gastronomy - serving the stomach by providing good food",
-                "gastritis - inflammation of the stomach."
+                "gastronomy - serving the stomach by providing good food"
             ]
         }
     ],
@@ -2476,9 +2315,6 @@
             "meanings": "birth, production,  formation, kind",
             "origin": "Greek",
             "examples_definitions": [
-                "genealogy - the study of the history of a family",
-                "generation - all the people born at approximately the same time",
-                "genetic -relating to heredity encoded in the genes."
             ]
         }
     ],
@@ -2582,9 +2418,6 @@
             "meanings": "writing, recording, written",
             "origin": "Greek",
             "examples_definitions": [
-                "Graphology - the study of handwritings",
-                "autograph - written with one's own hand",
-                "seismograph - a machine noting strength and duration of earthquakes."
             ]
         }
     ],
@@ -2618,9 +2451,6 @@
             "meanings": "woman, female",
             "origin": "Greek",
             "examples_definitions": [
-                "gynecology - the science of female reproductive health",
-                "gynephobia - fear of women",
-                "gynecoid - resembling a woman."
             ]
         }
     ],
@@ -2643,8 +2473,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "digression - a departure from the main issue, subject, etc.",
-                "progress - movement forward or onward",
-                "gradual - step by step."
+                "progress - movement forward or onward"
             ]
         }
     ],
@@ -2654,8 +2483,6 @@
             "meanings": "to step, to go",
             "origin": "Latin",
             "examples_definitions": [
-                "digression - a departure from the main issue, subject, etc.",
-                "progress - movement forward or onward",
                 "gradual - step by step."
             ]
         }
@@ -2666,9 +2493,6 @@
             "meanings": "to step, to go",
             "origin": "Latin",
             "examples_definitions": [
-                "digression - a departure from the main issue, subject, etc.",
-                "progress - movement forward or onward",
-                "gradual - step by step."
             ]
         }
     ],
@@ -2678,9 +2502,6 @@
             "meanings": "to step, to go",
             "origin": "Latin",
             "examples_definitions": [
-                "digression - a departure from the main issue, subject, etc.",
-                "progress - movement forward or onward",
-                "gradual - step by step."
             ]
         }
     ],
@@ -2703,7 +2524,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "hectoliter - 100 liters",
-                "hectare - metric unit equaling 100 ares or 10,000 square meters",
                 "hectometer - 100 meters."
             ]
         }
@@ -2714,9 +2534,6 @@
             "meanings": "hundred",
             "origin": "Greek",
             "examples_definitions": [
-                "hectoliter - 100 liters",
-                "hectare - metric unit equaling 100 ares or 10,000 square meters",
-                "hectometer - 100 meters."
             ]
         }
     ],
@@ -2727,7 +2544,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "helicopter - an aircraft with horizontal rotating wing",
-                "helix - a spiral form",
                 "helicon - a circular tuba."
             ]
         }
@@ -2739,7 +2555,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "helicopter - an aircraft with horizontal rotating wing",
-                "helix - a spiral form",
                 "helicon - a circular tuba."
             ]
         }
@@ -2763,8 +2578,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "heliotropism - movement or growth in relating to the sun",
-                "heliograph - apparatus used to send message with the help of sunlight",
-                "helianthus - genus of plants including sunflowers."
+                "heliograph - apparatus used to send message with the help of sunlight"
             ]
         }
     ],
@@ -2810,9 +2624,6 @@
             "meanings": "blood",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "hemorrhage - clotting of the blood",
-                "hemorrhoids - swelling of the blood vessels",
-                "hemoglobin - red blood particle."
             ]
         }
     ],
@@ -2859,8 +2670,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "herbicide - any chemical used to kill unwanted plants, etc.",
-                "herbivorous - plant-eating",
-                "herbal - relating to plants."
+                "herbivorous - plant-eating"
             ]
         }
     ],
@@ -2918,19 +2728,16 @@
             "origin": "LatinGreek",
             "examples_definitions": [
                 "homogeneous - of the same nature or kind",
-                "homonym - sounding alike",
-                "homeopath - a therapy that is based on treating \"same with same\""
+                "homonym - sounding alike"
             ]
         }
     ],
-    " homeo": [
+    "homeo": [
         {
             "root_word": " homeo",
             "meanings": "like, alike, same",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "homogeneous - of the same nature or kind",
-                "homonym - sounding alike",
                 "homeopath - a therapy that is based on treating \"same with same\""
             ]
         }
@@ -2954,10 +2761,8 @@
             "meanings": "liquid, water",
             "origin": "Greek",
             "examples_definitions": [
-                "hydrate - to add water to",
                 "hydrophobia - intense fear of water",
-                "hydroponics - growing plants in liquid nutrient solution",
-                "hydraulic - operated by force created by a liquid."
+                "hydroponics - growing plants in liquid nutrient solution"
             ]
         }
     ],
@@ -3037,9 +2842,6 @@
             "meanings": "medical care",
             "origin": "Greek",
             "examples_definitions": [
-                "geriatrics - medical care of the elderly",
-                "pediatrician - a doctor who treats children",
-                "podiatry - medical care for feet."
             ]
         }
     ],
@@ -3061,7 +2863,6 @@
             "meanings": "image",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "icon - an (often religious) image, in modern usage a simplified graphic of high symbolic content",
                 "iconology - science of symbols and icons",
                 "iconoclast - someone who destroys religious images and traditional beliefs."
             ]
@@ -3085,9 +2886,7 @@
             "meanings": "in, into",
             "origin": "Latin",
             "examples_definitions": [
-                "illuminate - to give light to",
-                "innovation - a new idea, method, or device",
-                "inspection - the act of examining or reviewing."
+                "illuminate - to give light to"
             ]
         },
         {
@@ -3095,10 +2894,7 @@
             "meanings": "not, without",
             "origin": "Latin",
             "examples_definitions": [
-                "illegal - not legal",
-                "impossible - not possible",
-                "inappropriate - not appropriate",
-                "irresponsible - not responsible."
+                "illegal - not legal"
             ]
         }
     ],
@@ -3108,7 +2904,6 @@
             "meanings": "in, into",
             "origin": "Latin",
             "examples_definitions": [
-                "illuminate - to give light to",
                 "innovation - a new idea, method, or device",
                 "inspection - the act of examining or reviewing."
             ]
@@ -3120,10 +2915,6 @@
             "meanings": "not, without",
             "origin": "Latin",
             "examples_definitions": [
-                "illegal - not legal",
-                "impossible - not possible",
-                "inappropriate - not appropriate",
-                "irresponsible - not responsible."
             ]
         }
     ],
@@ -3133,10 +2924,7 @@
             "meanings": "not, without",
             "origin": "Latin",
             "examples_definitions": [
-                "illegal - not legal",
-                "impossible - not possible",
-                "inappropriate - not appropriate",
-                "irresponsible - not responsible."
+                "impossible - not possible"
             ]
         }
     ],
@@ -3146,10 +2934,7 @@
             "meanings": "not, without",
             "origin": "Latin",
             "examples_definitions": [
-                "illegal - not legal",
-                "impossible - not possible",
-                "inappropriate - not appropriate",
-                "irresponsible - not responsible."
+                "inappropriate - not appropriate"
             ]
         }
     ],
@@ -3159,9 +2944,6 @@
             "meanings": "not, without",
             "origin": "Latin",
             "examples_definitions": [
-                "illegal - not legal",
-                "impossible - not possible",
-                "inappropriate - not appropriate",
                 "irresponsible - not responsible."
             ]
         },
@@ -3218,19 +3000,16 @@
             "origin": "Latin",
             "examples_definitions": [
                 "intrastate - existing in one state",
-                "intravenous - inside or into a vein",
-                "introvert - shy person who keeps within him/herself."
+                "intravenous - inside or into a vein"
             ]
         }
     ],
-    " intro": [
+    "intro": [
         {
             "root_word": " intro",
             "meanings": "within, inside",
             "origin": "Latin",
             "examples_definitions": [
-                "intrastate - existing in one state",
-                "intravenous - inside or into a vein",
                 "introvert - shy person who keeps within him/herself."
             ]
         }
@@ -3313,8 +3092,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "kinetics - study of the force of motion",
-                "psychokinesis or telekinesis - the ability to move objects with your mind",
-                "cinematography - motion picture making."
+                "psychokinesis or telekinesis - the ability to move objects with your mind"
             ]
         }
     ],
@@ -3325,8 +3103,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "kinetics - study of the force of motion",
-                "psychokinesis or telekinesis - the ability to move objects with your mind",
-                "cinematography - motion picture making."
+                "psychokinesis or telekinesis - the ability to move objects with your mind"
             ]
         }
     ],
@@ -3336,9 +3113,6 @@
             "meanings": "motion, division",
             "origin": "Greek",
             "examples_definitions": [
-                "kinetics - study of the force of motion",
-                "psychokinesis or telekinesis - the ability to move objects with your mind",
-                "cinematography - motion picture making."
             ]
         }
     ],
@@ -3372,9 +3146,7 @@
             "meanings": "milk",
             "origin": "Latin",
             "examples_definitions": [
-                "lactate - to give milk, nurse",
-                "lactose - the sugar contained in milk",
-                "lactic acid."
+                "lactose - the sugar contained in milk"
             ]
         }
     ],
@@ -3396,8 +3168,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "leukemia - abnormal increase of white blood cells in the blood",
-                "leukocyte - a mature white blood cell",
-                "leucine - a white, crystalline amino acid."
+                "leukocyte - a mature white blood cell"
             ]
         }
     ],
@@ -3407,33 +3178,26 @@
             "meanings": "white, colorless",
             "origin": "Greek",
             "examples_definitions": [
-                "leukemia - abnormal increase of white blood cells in the blood",
-                "leukocyte - a mature white blood cell",
-                "leucine - a white, crystalline amino acid."
+                "leukocyte - a mature white blood cell"
             ]
         }
     ],
-    " leuc": [
+    "leuc": [
         {
             "root_word": " leuc",
             "meanings": "white, colorless",
             "origin": "Greek",
             "examples_definitions": [
-                "leukemia - abnormal increase of white blood cells in the blood",
-                "leukocyte - a mature white blood cell",
                 "leucine - a white, crystalline amino acid."
             ]
         }
     ],
-    " leuco": [
+    "leuco": [
         {
             "root_word": " leuco",
             "meanings": "white, colorless",
             "origin": "Greek",
             "examples_definitions": [
-                "leukemia - abnormal increase of white blood cells in the blood",
-                "leukocyte - a mature white blood cell",
-                "leucine - a white, crystalline amino acid."
             ]
         }
     ],
@@ -3444,8 +3208,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "lexicology - the study and history of words",
-                "alexia -loss of the ability to read",
-                "illegal - not authorized by the official rules or laws."
+                "alexia -loss of the ability to read"
             ]
         }
     ],
@@ -3492,7 +3255,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "liposuction - the mechanical removal of fat reserves in the tissue",
-                "lipase - enzyme that breaks down fat",
                 "lipoid - resembling fat."
             ]
         }
@@ -3503,9 +3265,6 @@
             "meanings": "mineral, rock, fossil",
             "origin": "Greek",
             "examples_definitions": [
-                "apatite - a group of common minerals",
-                "granite - a hard, granular rock",
-                "monolith - a remarkable, unique stone."
             ]
         }
     ],
@@ -3516,32 +3275,26 @@
             "origin": "Greek",
             "examples_definitions": [
                 "apatite - a group of common minerals",
-                "granite - a hard, granular rock",
-                "monolith - a remarkable, unique stone."
+                "granite - a hard, granular rock"
             ]
         }
     ],
-    " lith": [
+    "lith": [
         {
             "root_word": " lith",
             "meanings": "mineral, rock, fossil",
             "origin": "Greek",
             "examples_definitions": [
-                "apatite - a group of common minerals",
-                "granite - a hard, granular rock",
                 "monolith - a remarkable, unique stone."
             ]
         }
     ],
-    " litho": [
+    "litho": [
         {
             "root_word": " litho",
             "meanings": "mineral, rock, fossil",
             "origin": "Greek",
             "examples_definitions": [
-                "apatite - a group of common minerals",
-                "granite - a hard, granular rock",
-                "monolith - a remarkable, unique stone."
             ]
         }
     ],
@@ -3574,8 +3327,6 @@
             "meanings": "word, doctrine, discourse",
             "origin": "Greek",
             "examples_definitions": [
-                "logic - correct reasoning",
-                "monologue - a long speech by one speaker;analogy - similarity, especially between things otherwise dissimilar."
             ]
         }
     ],
@@ -3586,8 +3337,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "eloquent - speaking beautifully and forcefully ",
-                "loquacious - very talkative",
-                "elocution - art of public speaking."
+                "loquacious - very talkative"
             ]
         }
     ],
@@ -3597,8 +3347,6 @@
             "meanings": "speak",
             "origin": "Latin",
             "examples_definitions": [
-                "eloquent - speaking beautifully and forcefully ",
-                "loquacious - very talkative",
                 "elocution - art of public speaking."
             ]
         }
@@ -3622,7 +3370,6 @@
             "origin": "Latin",
             "examples_definitions": [
                 "prelude - introduction to the major performance",
-                "illusion - misleading optical image or impression",
                 "delude - to mislead, deceive."
             ]
         }
@@ -3633,9 +3380,7 @@
             "meanings": "to play",
             "origin": "Latin",
             "examples_definitions": [
-                "prelude - introduction to the major performance",
-                "illusion - misleading optical image or impression",
-                "delude - to mislead, deceive."
+                "illusion - misleading optical image or impression"
             ]
         }
     ],
@@ -3645,8 +3390,7 @@
             "meanings": "light",
             "origin": "Latin",
             "examples_definitions": [
-                "illuminate - to fill with light",
-                "lumen - unit measuring light."
+                "illuminate - to fill with light"
             ]
         }
     ],
@@ -3680,9 +3424,6 @@
             "meanings": "moon",
             "origin": "Latin",
             "examples_definitions": [
-                "lunar - relating to the moon",
-                "lunarscape - the surface of the moon",
-                "lunatic - insane (as if driven mad by the moon)."
             ]
         }
     ],
@@ -3716,8 +3457,6 @@
             "meanings": "great, large",
             "origin": "Latin",
             "examples_definitions": [
-                "magnify - make larger",
-                "magnificent - grand",
                 "magnate - a powerful person, especially in business or industry."
             ]
         }
@@ -3729,8 +3468,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "magnify - make larger",
-                "magnificent - grand",
-                "magnate - a powerful person, especially in business or industry."
+                "magnificent - grand"
             ]
         }
     ],
@@ -3752,9 +3490,6 @@
             "meanings": "bad, ill, wrong",
             "origin": "Latin",
             "examples_definitions": [
-                "malcontent - wrong content",
-                "malaria - \"bad air\", infectious disease thought to originate from the \"bad air\" of the swamps, but caused by the bite of an infected mosquito",
-                "malicious - showing strong ill will."
             ]
         }
     ],
@@ -3776,9 +3511,6 @@
             "meanings": "hand",
             "origin": "Latin",
             "examples_definitions": [
-                "maneuver - to move by hand",
-                "manual - done with the hands",
-                "manuscript - a book written by hand."
             ]
         }
     ],
@@ -3788,7 +3520,6 @@
             "meanings": "hand",
             "origin": "Latin",
             "examples_definitions": [
-                "maneuver - to move by hand",
                 "manual - done with the hands",
                 "manuscript - a book written by hand."
             ]
@@ -3856,26 +3587,22 @@
             ]
         }
     ],
-    " matr": [
+    "matr": [
         {
             "root_word": " matr",
             "meanings": "mother",
             "origin": "Latin",
             "examples_definitions": [
-                "maternal - relating to motherhood",
-                "maternity - the state of being a mother",
                 "matriarch - a woman head of a household."
             ]
         }
     ],
-    " matri": [
+    "matri": [
         {
             "root_word": " matri",
             "meanings": "mother",
             "origin": "Latin",
             "examples_definitions": [
-                "maternal - relating to motherhood",
-                "maternity - the state of being a mother",
                 "matriarch - a woman head of a household."
             ]
         }
@@ -3923,8 +3650,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "melancholy - a state of dark emotions",
-                "melanoma - malignant dark tumor of the skin",
-                "melodrama - a dark, pathetic drama."
+                "melanoma - malignant dark tumor of the skin"
             ]
         }
     ],
@@ -3935,8 +3661,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "melancholy - a state of dark emotions",
-                "melanoma - malignant dark tumor of the skin",
-                "melodrama - a dark, pathetic drama."
+                "melanoma - malignant dark tumor of the skin"
             ]
         }
     ],
@@ -3958,9 +3683,7 @@
             "meanings": "remember",
             "origin": "Latin",
             "examples_definitions": [
-                "commemorate - to honor the memory of, as by a ceremony",
-                "memorial - related to remembering a person or event",
-                "memory: an ability to retain knowledge or an individual's stock of retained knowledge."
+                "memorial - related to remembering a person or event"
             ]
         }
     ],
@@ -3975,14 +3698,13 @@
             ]
         }
     ],
-    " mers": [
+    "mers": [
         {
             "root_word": " mers",
             "meanings": "dip, dive",
             "origin": "Latin",
             "examples_definitions": [
-                "immerge or immerse - to put or dip something into a liquid",
-                "submerge to dip something completely into wate.r"
+                "immerge or immerse - to put or dip something into a liquid"
             ]
         }
     ],
@@ -4016,32 +3738,26 @@
             "origin": "Greek",
             "examples_definitions": [
                 "audiometer- an instrument that measures hearing acuteness",
-                "chronometer- an instrument that measures time",
-                "metric - measured."
+                "chronometer- an instrument that measures time"
             ]
         }
     ],
-    " metr": [
+    "metr": [
         {
             "root_word": " metr",
             "meanings": "measure",
             "origin": "Greek",
             "examples_definitions": [
-                "audiometer- an instrument that measures hearing acuteness",
-                "chronometer- an instrument that measures time",
                 "metric - measured."
             ]
         }
     ],
-    " metry": [
+    "metry": [
         {
             "root_word": " metry",
             "meanings": "measure",
             "origin": "Greek",
             "examples_definitions": [
-                "audiometer- an instrument that measures hearing acuteness",
-                "chronometer- an instrument that measures time",
-                "metric - measured."
             ]
         }
     ],
@@ -4111,9 +3827,7 @@
             "meanings": "small, less",
             "origin": "Latin",
             "examples_definitions": [
-                "mini - something that is very small",
-                "minuscule - extremely tiny",
-                "minutiae - very small or trivial details."
+                "mini - something that is very small"
             ]
         }
     ],
@@ -4135,9 +3849,6 @@
             "meanings": "bad, badly, wrong, wrongly,  to hate",
             "origin": "Greek",
             "examples_definitions": [
-                "misbehave - to behave badly",
-                "misprint - an error in printing",
-                "misnomer - an error in naming a person or thing."
             ]
         }
     ],
@@ -4148,9 +3859,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "dismiss - to send someone away",
-                "missile - a weapon sent into the air",
-                "emit - to send something out",
-                "admittance - entry."
+                "missile - a weapon sent into the air"
             ]
         }
     ],
@@ -4160,8 +3869,6 @@
             "meanings": "send, let go",
             "origin": "Latin",
             "examples_definitions": [
-                "dismiss - to send someone away",
-                "missile - a weapon sent into the air",
                 "emit - to send something out",
                 "admittance - entry."
             ]
@@ -4211,8 +3918,7 @@
             "examples_definitions": [
                 "motion - the act of moving",
                 "motivate - to move someone to action",
-                "promote to move someone forward",
-                "removable - able to be taken or carried away."
+                "promote to move someone forward"
             ]
         }
     ],
@@ -4222,9 +3928,6 @@
             "meanings": "move",
             "origin": "Latin",
             "examples_definitions": [
-                "motion - the act of moving",
-                "motivate - to move someone to action",
-                "promote to move someone forward",
                 "removable - able to be taken or carried away."
             ]
         }
@@ -4236,7 +3939,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "metamorphosis - complete change of form",
-                "endorphins - chemical in the brain able to transform pain",
                 "amorphous - without distinct shape or form."
             ]
         }
@@ -4248,7 +3950,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "metamorphosis - complete change of form",
-                "endorphins - chemical in the brain able to transform pain",
                 "amorphous - without distinct shape or form."
             ]
         }
@@ -4308,7 +4009,6 @@
             "origin": "Latin",
             "examples_definitions": [
                 "myocardium - the middle muscle of the heart",
-                "myasthenia - muscle fatigue or weakness",
                 "myosin - common protein in muscle tissue."
             ]
         }
@@ -4414,7 +4114,6 @@
             "meanings": "kidney",
             "origin": "Greek",
             "examples_definitions": [
-                "nephritis - inflammation of the kidneys",
                 "nephrotomy - surgical incision of a kidney",
                 "nephron - a single, excretory unit in the kidney."
             ]
@@ -4438,7 +4137,6 @@
             "meanings": "nerve",
             "origin": "Greek",
             "examples_definitions": [
-                "neuralgia - pain along a nerve",
                 "neurologist - doctor specializing in the nerves",
                 "neurotic - mental disorder that usually does not include an impaired perception of reality."
             ]
@@ -4462,7 +4160,6 @@
             "meanings": "name",
             "origin": "Latin",
             "examples_definitions": [
-                "misnomer - an error in naming a person or thing",
                 "nominal - being something in name only but not in reality",
                 "nominate - to name for election or appointment, to designate."
             ]
@@ -4499,19 +4196,16 @@
             "origin": "Latin",
             "examples_definitions": [
                 "announce - to declare in public",
-                "denounce - to proclaim harsh criticism",
-                "enunciate - to speak or declare something clearly."
+                "denounce - to proclaim harsh criticism"
             ]
         }
     ],
-    " nunc": [
+    "nunc": [
         {
             "root_word": " nunc",
             "meanings": "declare",
             "origin": "Latin",
             "examples_definitions": [
-                "announce - to declare in public",
-                "denounce - to proclaim harsh criticism",
                 "enunciate - to speak or declare something clearly."
             ]
         }
@@ -4548,8 +4242,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "object - to be against something",
-                "obscure - hard to understand",
-                "opposition - the act of resistance or action against."
+                "obscure - hard to understand"
             ]
         }
     ],
@@ -4559,8 +4252,6 @@
             "meanings": "in the way, against",
             "origin": "Latin",
             "examples_definitions": [
-                "object - to be against something",
-                "obscure - hard to understand",
                 "opposition - the act of resistance or action against."
             ]
         },
@@ -4570,8 +4261,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "optic - relating to the eyes",
-                "optician - a person who fits eyeglasses",
-                "autopsy - the examination of a dead body."
+                "optician - a person who fits eyeglasses"
             ]
         }
     ],
@@ -4594,8 +4284,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "octagon - a figure with 8 sides and 8 angles",
-                "octogenarian - person in his or her 80s",
-                "octopus - sea animal with 8 arms."
+                "octogenarian - person in his or her 80s"
             ]
         }
     ],
@@ -4605,7 +4294,6 @@
             "meanings": "eight",
             "origin": "Greek",
             "examples_definitions": [
-                "octagon - a figure with 8 sides and 8 angles",
                 "octogenarian - person in his or her 80s",
                 "octopus - sea animal with 8 arms."
             ]
@@ -4633,7 +4321,7 @@
             ]
         }
     ],
-    "odor\u00a0": [
+    "odor": [
         {
             "root_word": "odor\u00a0",
             "meanings": "smell, scent",
@@ -4662,8 +4350,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "optic - relating to the eyes",
-                "optician - a person who fits eyeglasses",
-                "autopsy - the examination of a dead body."
+                "optician - a person who fits eyeglasses"
             ]
         },
         {
@@ -4683,8 +4370,6 @@
             "meanings": "eye, visual condition, sight",
             "origin": "Greek",
             "examples_definitions": [
-                "optic - relating to the eyes",
-                "optician - a person who fits eyeglasses",
                 "autopsy - the examination of a dead body."
             ]
         }
@@ -4743,7 +4428,6 @@
             "meanings": "sharp",
             "origin": "Greek",
             "examples_definitions": [
-                "oxymoron - combining two ideas that sharply contradict each other",
                 "oxidize - corrode a surface."
             ]
         }
@@ -4754,8 +4438,6 @@
             "meanings": "sharp",
             "origin": "Greek",
             "examples_definitions": [
-                "oxymoron - combining two ideas that sharply contradict each other",
-                "oxidize - corrode a surface."
             ]
         }
     ],
@@ -4824,19 +4506,16 @@
             "origin": "LatinGreek",
             "examples_definitions": [
                 "paternal - relating to fathers",
-                "paternity - fatherhood",
-                "patriarch - a man who rules a group."
+                "paternity - fatherhood"
             ]
         }
     ],
-    " patr": [
+    "patr": [
         {
             "root_word": " patr",
             "meanings": "father",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "paternal - relating to fathers",
-                "paternity - fatherhood",
                 "patriarch - a man who rules a group."
             ]
         }
@@ -4847,8 +4526,6 @@
             "meanings": "father",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "paternal - relating to fathers",
-                "paternity - fatherhood",
                 "patriarch - a man who rules a group."
             ]
         }
@@ -4883,8 +4560,6 @@
             "meanings": "foot, feet",
             "origin": "Latin",
             "examples_definitions": [
-                "pedal - a lever pushed by the foot",
-                "pedestrian - one who walks",
                 "pedicure - cosmetic treatment of feet and toes."
             ]
         }
@@ -4895,9 +4570,7 @@
             "meanings": "foot, feet",
             "origin": "Latin",
             "examples_definitions": [
-                "pedal - a lever pushed by the foot",
-                "pedestrian - one who walks",
-                "pedicure - cosmetic treatment of feet and toes."
+                "pedestrian - one who walks"
             ]
         }
     ],
@@ -4941,9 +4614,7 @@
             "meanings": "digestion",
             "origin": "Greek",
             "examples_definitions": [
-                "dyspepsia - abnormal digestion",
-                "peptic - aiding digestion",
-                "pepsin - a digestive enzyme."
+                "peptic - aiding digestion"
             ]
         }
     ],
@@ -4954,7 +4625,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "dyspepsia - abnormal digestion",
-                "peptic - aiding digestion",
                 "pepsin - a digestive enzyme."
             ]
         }
@@ -5002,9 +4672,6 @@
             "meanings": "to eat",
             "origin": "Greek",
             "examples_definitions": [
-                "esophagus - muscular tube that carries food to the stomach",
-                "anthropophagy or sarcophagy - cannibalism",
-                "xylophagous - feeding on wood."
             ]
         }
     ],
@@ -5016,8 +4683,7 @@
             "examples_definitions": [
                 "philanthropist - one who loves humanity",
                 "philology - the love of words",
-                "philosophy - the love of wisdom",
-                "bibliophil - loving books."
+                "philosophy - the love of wisdom"
             ]
         }
     ],
@@ -5027,10 +4693,8 @@
             "meanings": "love, friend",
             "origin": "Greek",
             "examples_definitions": [
-                "philanthropist - one who loves humanity",
                 "philology - the love of words",
-                "philosophy - the love of wisdom",
-                "bibliophil - loving books."
+                "philosophy - the love of wisdom"
             ]
         }
     ],
@@ -5052,9 +4716,6 @@
             "meanings": "sound",
             "origin": "Greek",
             "examples_definitions": [
-                "cacophony - loud, unpleasant sounds",
-                "microphone - a device that records and amplifies sound",
-                "phonetic - relating to human speech sounds."
             ]
         }
     ],
@@ -5064,9 +4725,7 @@
             "meanings": "sound",
             "origin": "Greek",
             "examples_definitions": [
-                "cacophony - loud, unpleasant sounds",
-                "microphone - a device that records and amplifies sound",
-                "phonetic - relating to human speech sounds."
+                "microphone - a device that records and amplifies sound"
             ]
         }
     ],
@@ -5112,9 +4771,7 @@
             "meanings": "leaf",
             "origin": "Greek",
             "examples_definitions": [
-                "chlorophyll - a group of green pigments found in leaves",
-                "phyllotaxis - the arrangement of leaves on a stem",
-                "phyllite - a rock that forms sheets, similar to slate."
+                "phyllotaxis - the arrangement of leaves on a stem"
             ]
         }
     ],
@@ -5148,9 +4805,6 @@
             "meanings": "plant, to grow",
             "origin": "Greek",
             "examples_definitions": [
-                "epiphyte - a plant growing independently on the surface of another",
-                "hydrophyte - a plant that grows only in water",
-                "neophyte - a beginner, especially a person recently converted to a new belief."
             ]
         }
     ],
@@ -5184,7 +4838,6 @@
             "meanings": "to form, development,  forming cells",
             "origin": "Greek",
             "examples_definitions": [
-                "protoplasm - something that is the first made or formed, also the living portion of a cell",
                 "plastic - able to be formed, especially when warm",
                 "plaster - a mixture of lime, sand and water that forms a smooth solid covering for walls."
             ]
@@ -5196,9 +4849,7 @@
             "meanings": "to form, development,  forming cells",
             "origin": "Greek",
             "examples_definitions": [
-                "protoplasm - something that is the first made or formed, also the living portion of a cell",
-                "plastic - able to be formed, especially when warm",
-                "plaster - a mixture of lime, sand and water that forms a smooth solid covering for walls."
+                "protoplasm - something that is the first made or formed, also the living portion of a cell"
             ]
         }
     ],
@@ -5218,7 +4869,6 @@
             "meanings": "approve, clap",
             "origin": "Latin",
             "examples_definitions": [
-                "applaud- to show approval of especially by clapping the hands;\u00a0explosion- an act of exposing something as invalid or baseless;\u00a0plausible-\u00a0worthy of being applauded"
             ]
         }
     ],
@@ -5228,7 +4878,6 @@
             "meanings": "approve, clap",
             "origin": "Latin",
             "examples_definitions": [
-                "applaud- to show approval of especially by clapping the hands;\u00a0explosion- an act of exposing something as invalid or baseless;\u00a0plausible-\u00a0worthy of being applauded"
             ]
         }
     ],
@@ -5238,7 +4887,6 @@
             "meanings": "approve, clap",
             "origin": "Latin",
             "examples_definitions": [
-                "applaud- to show approval of especially by clapping the hands;\u00a0explosion- an act of exposing something as invalid or baseless;\u00a0plausible-\u00a0worthy of being applauded"
             ]
         }
     ],
@@ -5249,8 +4897,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "pneumonia - inflammation of the lungs",
-                "pneumatic - using the force of air",
-                "dyspnea - difficulty breathing."
+                "pneumatic - using the force of air"
             ]
         }
     ],
@@ -5260,9 +4907,7 @@
             "meanings": "breathing, lung, air, spirit",
             "origin": "Greek",
             "examples_definitions": [
-                "pneumonia - inflammation of the lungs",
-                "pneumatic - using the force of air",
-                "dyspnea - difficulty breathing."
+                "pneumonia - inflammation of the lungs"
             ]
         }
     ],
@@ -5284,9 +4929,6 @@
             "meanings": "foot",
             "origin": "Greek",
             "examples_definitions": [
-                "podiatrist - a doctor for the feet",
-                "podium - a small platform to stand on",
-                "tripod - a stand or frame with 3 legs."
             ]
         }
     ],
@@ -5463,13 +5105,11 @@
             "meanings": "mind, mental",
             "origin": "Greek",
             "examples_definitions": [
-                "psyche - the human spirit or soul",
-                "psychic - relating to the human mind or someone who has supernatural mental abilities",
                 "psychology - the study of the mind."
             ]
         }
     ],
-    " pugn": [
+    "pugn": [
         {
             "root_word": " pugn",
             "meanings": "to fight",
@@ -5481,26 +5121,23 @@
             ]
         }
     ],
-    " pugna": [
+    "pugna": [
         {
             "root_word": " pugna",
             "meanings": "to fight",
             "origin": "Latin",
             "examples_definitions": [
                 "pugnacious - having a quarrelsome or aggressive nature",
-                "repugnant - distasteful, offensive or revolting",
-                "pungent - piercing."
+                "repugnant - distasteful, offensive or revolting"
             ]
         }
     ],
-    " pung ": [
+    "pung ": [
         {
             "root_word": " pung ",
             "meanings": "to fight",
             "origin": "Latin",
             "examples_definitions": [
-                "pugnacious - having a quarrelsome or aggressive nature",
-                "repugnant - distasteful, offensive or revolting",
                 "pungent - piercing."
             ]
         }
@@ -5560,8 +5197,7 @@
             "origin": "Greek",
             "examples_definitions": [
                 "pyrotechnics - the art of making fireworks",
-                "pyrometer - a thermometer for measuring high temperature",
-                "pyretic - relating to or producing fever."
+                "pyrometer - a thermometer for measuring high temperature"
             ]
         }
     ],
@@ -5595,9 +5231,6 @@
             "meanings": "four",
             "origin": "Latin",
             "examples_definitions": [
-                "quadrant - open space with buildings on 4 sides",
-                "quadrennium - period of 4 years",
-                "quadruped - a 4-footed animal."
             ]
         }
     ],
@@ -5644,20 +5277,16 @@
             "origin": "Latin",
             "examples_definitions": [
                 "eradicate - pull out at the roots",
-                "radical - fundamental, looking at things from a drastic point of view",
-                "radish - an edible root of the mustard family."
+                "radical - fundamental, looking at things from a drastic point of view"
             ]
         }
     ],
-    " radix": [
+    "radix": [
         {
             "root_word": " radix",
             "meanings": "root",
             "origin": "Latin",
             "examples_definitions": [
-                "eradicate - pull out at the roots",
-                "radical - fundamental, looking at things from a drastic point of view",
-                "radish - an edible root of the mustard family."
             ]
         }
     ],
@@ -5776,7 +5405,6 @@
             "origin": "Greek",
             "examples_definitions": [
                 "rhododendron - a flower with red/pink flowers",
-                "rhodium - an element which produces a red solution",
                 "rhodopsin - a purple pigment in the retina that is needed for vision."
             ]
         }
@@ -5811,9 +5439,7 @@
             "meanings": "flow, discharge",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "diarrhea - abnormally excessive bowl movement",
-                "hemorrhage - heavy blood flow",
-                "catarrh - inflammation of a mucous membrane, especially the nose and throat."
+                "diarrhea - abnormally excessive bowl movement"
             ]
         }
     ],
@@ -5823,9 +5449,6 @@
             "meanings": "flow, discharge",
             "origin": "LatinGreek",
             "examples_definitions": [
-                "diarrhea - abnormally excessive bowl movement",
-                "hemorrhage - heavy blood flow",
-                "catarrh - inflammation of a mucous membrane, especially the nose and throat."
             ]
         }
     ],
@@ -5943,9 +5566,6 @@
             "meanings": "see, examine, observe",
             "origin": "Greek",
             "examples_definitions": [
-                "microscope - a device used to see tiny things",
-                "periscope - a seeing instrument on a submarine",
-                "telescope - a device used to see over a distance."
             ]
         }
     ],
@@ -5961,15 +5581,12 @@
             ]
         }
     ],
-    " script": [
+    "script": [
         {
             "root_word": " script",
             "meanings": "write, written",
             "origin": "Latin",
             "examples_definitions": [
-                "inscribe - to write letters or words on a surface",
-                "scribe - a person who writes out documents",
-                "describe - to represent with words or pictures."
             ]
         }
     ],
@@ -6003,7 +5620,6 @@
             "meanings": "sit",
             "origin": "Latin",
             "examples_definitions": [
-                "reside- be stationed;\u00a0sediment-\u00a0the matter that settles to the bottom of a liquid;\u00a0session-\u00a0an actual or constructive sitting of a body"
             ]
         }
     ],
@@ -6023,7 +5639,6 @@
             "meanings": "sit",
             "origin": "Latin",
             "examples_definitions": [
-                "reside- be stationed;\u00a0sediment-\u00a0the matter that settles to the bottom of a liquid;\u00a0session-\u00a0an actual or constructive sitting of a body"
             ]
         }
     ],
@@ -6070,9 +5685,6 @@
             "meanings": "seven",
             "origin": "Latin",
             "examples_definitions": [
-                "September - this used to be the seventh month in the Roman calendar",
-                "septet - a group of seven musicians",
-                "septuagenarian - a person in his/her seventies."
             ]
         }
     ],
@@ -6133,9 +5745,9 @@
             ]
         }
     ],
-    "somnI": [
+    "somni": [
         {
-            "root_word": "somnI",
+            "root_word": "somni",
             "meanings": "sleep",
             "origin": "Latin",
             "examples_definitions": [
@@ -6194,15 +5806,12 @@
             ]
         }
     ],
-    " spic": [
+    "spic": [
         {
             "root_word": " spic",
             "meanings": "see, look",
             "origin": "Latin",
             "examples_definitions": [
-                "circumspect - cautious, looking all around",
-                "retrospective - a looking back at past things",
-                "spectator - a person who sees an event."
             ]
         }
     ],
@@ -6320,9 +5929,7 @@
             "meanings": "together, with, same",
             "origin": "Greek",
             "examples_definitions": [
-                "symmetry -similarity in size, form or arrangement",
-                "synergy - the combined effect",
-                "synchronize - to cause to occur at the same time."
+                "symmetry -similarity in size, form or arrangement"
             ]
         }
     ],
@@ -6332,7 +5939,6 @@
             "meanings": "together, with, same",
             "origin": "Greek",
             "examples_definitions": [
-                "symmetry -similarity in size, form or arrangement",
                 "synergy - the combined effect",
                 "synchronize - to cause to occur at the same time."
             ]
@@ -6346,7 +5952,6 @@
             "examples_definitions": [
                 "contact - a state in which two things touch",
                 "tactile - relating to the sense of touch",
-                "tangible - able to be touched",
                 "intact - with nothing missing."
             ]
         }
@@ -6357,10 +5962,7 @@
             "meanings": "touch",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "contact - a state in which two things touch",
-                "tactile - relating to the sense of touch",
-                "tangible - able to be touched",
-                "intact - with nothing missing."
+                "tangible - able to be touched"
             ]
         }
     ],
@@ -6382,9 +5984,7 @@
             "meanings": "arrangement",
             "origin": "Greek\u00a0",
             "examples_definitions": [
-                "syntax - the systematic arrangement of words",
-                "taxonomy - the science of classification",
-                "ataxia - loss of the ability to coordinate muscle action."
+                "taxonomy - the science of classification"
             ]
         }
     ],
@@ -6432,10 +6032,6 @@
             "meanings": "far, distant, complete",
             "origin": "Greek\u00a0",
             "examples_definitions": [
-                "telephone - a device to talk to a distant person",
-                "telescope - a device to view distant objects",
-                "television - a device to receive pictures from afar",
-                "telecommuting - working remotely, bridging the distance via virtual devices."
             ]
         }
     ],
@@ -6469,7 +6065,6 @@
             "meanings": "hold",
             "origin": "Latin",
             "examples_definitions": [
-                "continent- serving to restrain or limit;\u00a0detention- \u00a0the act or fact of detaining, tenacious-\u00a0having parts or elements strongly adhering to each other"
             ]
         }
     ],
@@ -6489,7 +6084,6 @@
             "meanings": "hold",
             "origin": "Latin",
             "examples_definitions": [
-                "continent- serving to restrain or limit;\u00a0detention- \u00a0the act or fact of detaining, tenacious-\u00a0having parts or elements strongly adhering to each other"
             ]
         }
     ],
@@ -6499,7 +6093,6 @@
             "meanings": "rub",
             "origin": "Latin",
             "examples_definitions": [
-                "attrition- \u00a0the act of rubbing together or wearing down;\u00a0detritus- a product of disintegration or wearing away;\u00a0trite-\u00a0used or occurring so often as to have lost interest, freshness, or force"
             ]
         }
     ],
@@ -6531,7 +6124,6 @@
             "meanings": "end, limit",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "determine - to find something out at the end of an investigation",
                 "terminate - to end",
                 "exterminate - to destroy or get rid of completely."
             ]
@@ -6543,7 +6135,6 @@
             "meanings": "land, earth",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "extraterrestrial - existing outside the earth",
                 "terrain - ground or land",
                 "territory - an area of land."
             ]
@@ -6555,9 +6146,7 @@
             "meanings": "land, earth",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "extraterrestrial - existing outside the earth",
-                "terrain - ground or land",
-                "territory - an area of land."
+                "terrain - ground or land"
             ]
         }
     ],
@@ -6567,8 +6156,6 @@
             "meanings": "land, earth",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "extraterrestrial - existing outside the earth",
-                "terrain - ground or land",
                 "territory - an area of land."
             ]
         }
@@ -6580,8 +6167,7 @@
             "origin": "Latin",
             "examples_definitions": [
                 "tetrapod - having 4 legs",
-                "tetrarchy - government by 4 rulers",
-                "tetrose - a monosaccharide with four carbon atoms."
+                "tetrarchy - government by 4 rulers"
             ]
         }
     ],
@@ -6611,8 +6197,6 @@
             "meanings": "god",
             "origin": "Greek\u00a0",
             "examples_definitions": [
-                "monotheism - belief in one god",
-                "polytheism - worshiping more than one god",
                 "theology - the study of religion, god, etc."
             ]
         }
@@ -6635,7 +6219,6 @@
             "meanings": "heat",
             "origin": "Greek\u00a0",
             "examples_definitions": [
-                "thermal - relating to heat",
                 "thermos - an insulated jar that keeps heat in",
                 "thermostat - a device that controls heat."
             ]
@@ -6647,7 +6230,6 @@
             "meanings": "twist",
             "origin": "Latin",
             "examples_definitions": [
-                "contortion - a twisted shape or position",
                 "distort - to alter the shape or condition of",
                 "retort - reply in a manner that is supposed to change the effect of something previously said."
             ]
@@ -6782,8 +6364,7 @@
             "origin": "Latin\u00a0",
             "examples_definitions": [
                 "circumvent - to go around or bypass restrictions",
-                "convention - a gathering or assembly of people with a common interest",
-                "intervene - to come between."
+                "convention - a gathering or assembly of people with a common interest"
             ]
         }
     ],
@@ -6799,14 +6380,12 @@
             ]
         }
     ],
-    "verI": [
+    "veri": [
         {
-            "root_word": "verI",
+            "root_word": "veri",
             "meanings": "truth",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "veracious - truthful, honest",
-                "veracity - the truth",
                 "verify - to make sure that something is true."
             ]
         }
@@ -6830,9 +6409,7 @@
             "origin": "Latin\u00a0",
             "examples_definitions": [
                 "reverse - to turn around",
-                "introvert - being turned towards the inside",
-                "version - a variation of an original",
-                "controversy - a conversation in which positions are turned against each other."
+                "version - a variation of an original"
             ]
         }
     ],
@@ -6842,10 +6419,7 @@
             "meanings": "turn",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "reverse - to turn around",
-                "introvert - being turned towards the inside",
-                "version - a variation of an original",
-                "controversy - a conversation in which positions are turned against each other."
+                "introvert - being turned towards the inside"
             ]
         }
     ],
@@ -6873,8 +6447,6 @@
             "meanings": "see",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "vision - the ability to see",
-                "envision - to picture in the mind",
                 "evident - clearly visible."
             ]
         }
@@ -6885,9 +6457,7 @@
             "meanings": "conquer",
             "origin": "Latin",
             "examples_definitions": [
-                "convince - to win someone over",
-                "invincible - not able to be conquered",
-                "victory - the conquest of an enemy."
+                "convince - to win someone over"
             ]
         }
     ],
@@ -6910,8 +6480,7 @@
             "origin": "Latin\u00a0",
             "examples_definitions": [
                 "vision - the ability to see",
-                "envision - to picture in the mind",
-                "evident - clearly visible."
+                "envision - to picture in the mind"
             ]
         }
     ],
@@ -6922,19 +6491,16 @@
             "origin": "Latin\u00a0",
             "examples_definitions": [
                 "revival - the act of bringing back to life",
-                "vital - pertaining to live",
                 "vivacious - high-spirited and full of life."
             ]
         }
     ],
-    "vivi  vit": [
+    "vivi": [
         {
-            "root_word": "vivi  vit",
+            "root_word": "vivi",
             "meanings": "live, life",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "revival - the act of bringing back to life",
-                "vital - pertaining to live",
                 "vivacious - high-spirited and full of life."
             ]
         }
@@ -6957,9 +6523,6 @@
             "meanings": "voice, call",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "advocate - to speak in favor of",
-                "equivocate - to use misleading language that could be interpreted two different ways",
-                "vocalize - to produce with your voice."
             ]
         }
     ],
@@ -6980,7 +6543,6 @@
             "meanings": "wish, will",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "benevolent - showing good will and kindness",
                 "volition - the act of making a choice or decision, voluntary - resulting from your own free will."
             ]
         }
@@ -6991,8 +6553,6 @@
             "meanings": "wish, will",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "benevolent - showing good will and kindness",
-                "volition - the act of making a choice or decision, voluntary - resulting from your own free will."
             ]
         }
     ],
@@ -7003,8 +6563,7 @@
             "origin": "Latin\u00a0",
             "examples_definitions": [
                 "carnivorous - meat-eating",
-                "voracious - desiring or eating food in great quantities",
-                "devour - to eat quickly."
+                "voracious - desiring or eating food in great quantities"
             ]
         }
     ],
@@ -7014,9 +6573,7 @@
             "meanings": "eat",
             "origin": "Latin\u00a0",
             "examples_definitions": [
-                "carnivorous - meat-eating",
-                "voracious - desiring or eating food in great quantities",
-                "devour - to eat quickly."
+                "voracious - desiring or eating food in great quantities"
             ]
         }
     ],
@@ -7073,19 +6630,16 @@
             "origin": "Greek\u00a0",
             "examples_definitions": [
                 "xerophyte - a plant that grows in dry climate",
-                "xerography - a dry photocopying process",
-                "xeric - requiring small amounts of moisture."
+                "xerography - a dry photocopying process"
             ]
         }
     ],
-    "xerI": [
+    "xeri": [
         {
-            "root_word": "xerI",
+            "root_word": "xeri",
             "meanings": "dry",
             "origin": "Greek\u00a0",
             "examples_definitions": [
-                "xerophyte - a plant that grows in dry climate",
-                "xerography - a dry photocopying process",
                 "xeric - requiring small amounts of moisture."
             ]
         }

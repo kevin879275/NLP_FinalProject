@@ -24,19 +24,27 @@ def fastfind_suffix(s):
 
     return {'status': 'Not Found'} 
 
-def fastfind_prefixroot(s):
+def fastfind_all(s):
     parent = os.path.dirname(os.path.realpath(__file__))
-    path = os.path.dirname(parent) + '/Data/fasttext_prefixroot.json'
+    path = os.path.dirname(parent) + '/Data/fasttext_all.json'
 
     roots = json.load(open(path, encoding='utf-8'))
-    if s in roots: 
-        for v in roots[s]:
-            v['status'] = 'OK'
-        return roots[s]
-
-    return [{'status': 'Not Found'}] 
+    res = {
+        'prefix': {'status': 'Not Found'},
+        'root': {'status': 'Not Found'},
+        'suffix': {'status': 'Not Found'}
+    }
+    if s in roots:
+        root = roots[s]
+        for name in ['prefix', 'root', 'suffix']:
+            try:
+                root[name]['status'] = 'OK'
+                res[name] = root[name]
+            except:
+                res[name] = {'status': 'Not Found'} 
+    return res
 
 if __name__ == "__main__":
-    print(fastfind_root('pre'))
-    print(fastfind_suffix('pre'))
-    print(fastfind_prefixroot('construction'))
+    print(fastfind_root('international'))
+    print(fastfind_suffix('international'))
+    print(fastfind_all('international'))

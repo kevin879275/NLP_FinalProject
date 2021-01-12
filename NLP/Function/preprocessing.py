@@ -2,7 +2,6 @@ import json
 import gensim.downloader as api
 from gensim.models import Word2Vec
 import re
-from collections import defaultdict
 
 '''
     load files
@@ -43,7 +42,8 @@ def allPrefixCandicate(s, idx = -1):
 
 def suffixCandicate(s, idx = -1):
     candicate = []
-    for i in range(len(s)):
+    lg = 0 if idx < 0 else idx+1
+    for i in range(lg, len(s)):
         for val in suffix_bag.get(s[i:], []):
             candicate.append((i, val)) 
     return candicate
@@ -60,25 +60,29 @@ def findRoot(s, howcandicate, idx = -1):
             if sen in model.vocab: tmp.append( (model.distance(s, sen), len(item[root_key]), idx, item) )
     if not len(tmp): return 100, 'no length', 'nan', 'nan'
     
-    return min(tmp, key = lambda x: (x[0], -x[1]))
+    return min(tmp, key = lambda x: (x[0], -x[1], x[2]))
 
-def buildRoot(dataset, threshold = 0.6, rootfunc = allPrefixCandicate):
-    words_root = defaultdict(list)
+def buildRoot(dataset, threshold = 0.6):
+    words_root = dict()
     for word in dataset:
-        distance, _, idx, root = findRoot(word, rootfunc)
-        if distance <= threshold: 
-            words_root[word].append(root)
-            if rootfunc == allPrefixCandicate and idx != 'nan' and idx != 0:
+        word_root = dict()
+        distance, _, idx, root = findRoot(word, allPrefixCandicate)
+        if idx == 0 and distance <= threshold: word_root['prefix'] = root
+        elif distance <= threshold:
+            word_root['root'] = root
+            if idx != 'nan':
                 distance, _, _, root = findRoot(word, prefixCandicate, idx)
-                if distance <= threshold+0.2: 
-                    words_root[word].append(root)
+                if distance <= threshold: word_root['prefix'] = root
+        idx = idx if idx != 'nan' else -1
+        distance, _, _, root = findRoot(word, suffixCandicate, idx)
+        if distance <= threshold: word_root['suffix'] = root
+        if len(word_root): words_root[word] = word_root
     return words_root
 
 '''
     Running
 '''
-json.dump(buildRoot(dataset = model.vocab, threshold=0.5), open("fasttext_test.json", "w"), indent=4)
-# json.dump(buildRoot(dataset = model.vocab, threshold=0.7, rootfunc=suffixCandicate), open("fasttext_suffix.json", "w"), indent=4)
+json.dump(buildRoot(dataset = model.vocab, threshold=0.7), open("fasttext_all.json", "w"), indent=4)
 
 '''
     Testing

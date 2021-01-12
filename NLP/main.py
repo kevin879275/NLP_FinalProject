@@ -42,6 +42,6 @@ elif function == '句子判斷':
     sen = ' '.join(args)
     print(json.dumps(Function.pattern_collections.sentimentAndSure(sen)), flush=True)
 
-elif function == '字首字根':
+elif function == '字首根尾':
     voc = args[0]
-    print(json.dumps(Function.rootquery.fastfind_prefixroot(voc)), flush=True)
+    print(json.dumps(Function.rootquery.fastfind_all(voc)), flush=True)

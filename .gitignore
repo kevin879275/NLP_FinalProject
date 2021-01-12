@@ -136,3 +136,4 @@ data/token.txt
 # Local History for Visual Studio Code
 .history/
 *.pyc
+NLP/data/fasttext_all.7z

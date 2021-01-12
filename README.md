@@ -126,6 +126,14 @@ aspellCheck vocabulary
 ### Prefix Root Suffix Query
 Query all possible part of your input.
 
+##### alias:
+1. prsq
+2. prefixRootSuffix
+3. prefixRootSuffixQuery
+##### command:
+```shell
+aprsq construction
+```
 ##### results:
 ![](https://i.imgur.com/PqO7Wpd.png)
 

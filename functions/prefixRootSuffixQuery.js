@@ -1,13 +1,13 @@
 const Path=require("../js/PathSetting");
 const {Cmd} =require(`${Path.jsFolder}botHandler.js`);
 const { PythonShell } = require('python-shell')
-class PrefixRootQuery extends Cmd
+class PrefixRootSuffixQuery extends Cmd
 {
     constructor(settingsManager,bot)
     {
         super(settingsManager,bot);
-        this.name="prefixRootQuery";
-        this.defaultSetting.alias=["prq"];
+        this.name="prefixRootSuffixQuery";
+        this.defaultSetting.alias=["prs","prsq","prefixRootSuffix"];
         this.defaultSetting.filePath= __filename.slice(__dirname.length + 1);
         this.settingsProcess();
         
@@ -84,4 +84,4 @@ class PrefixRootQuery extends Cmd
     }
 }
 
-module.exports=PrefixRootQuery;
+module.exports=PrefixRootSuffixQuery;

@@ -253,24 +253,16 @@
             ],
             "selfCmd": false
         },
-        "rootQuery": {
+        "prefixQuery": {
             "enable": true,
             "type": "cmd",
             "alias": [
-                "rq"
+                "pq"
             ],
             "op": false,
-            "filePath": "rootquery.js"
+            "filePath": "querys.js"
         },
-        "prefixRootQuery": {
-            "enable": true,
-            "type": "cmd",
-            "alias": [
-                "prq"
-            ],
-            "op": false,
-            "filePath": "prefixRootQuery.js"
-        },
+    
         "suffixQuery": {
             "enable": true,
             "type": "cmd",
@@ -278,7 +270,7 @@
                 "sq"
             ],
             "op": false,
-            "filePath": "rootquery.js"
+            "filePath": "querys.js"
         },
         "linggle": {
             "enable": true,
@@ -329,6 +321,17 @@
             ],
             "op": false,
             "filePath": "spellSuggest.js"
+        },
+        "prefixRootSuffixQuery": {
+            "enable": true,
+            "type": "cmd",
+            "alias": [
+                "prs",
+                "prsq",
+                "prefixRootSuffix"
+            ],
+            "op": false,
+            "filePath": "prefixRootSuffixQuery.js"
         }
     }
 }

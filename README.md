@@ -1,7 +1,7 @@
 # NLP BOT
 ###### tags: `Discord` `Nature Language Processing` 
 ## Introduction
-This is a discord bot contains various NLP functions for NLP crouse final project.
+This is a discord bot contains various NLP functions for NLP course final project.
 
 ## Useage
 All commands should start with prefix, default=a, you setting in data/settings.json.
@@ -12,7 +12,7 @@ All commands should start with prefix, default=a, you setting in data/settings.j
     "firebase-admin": "^8.11.0",
     "python-shell": "^2.0.3",
     "slashes": "^2.0.2"
-2. python : linggle, nltk
+2. python : linggle, nltk, numpy, scipy
 
 ## Functions
 ### Daily Vocabularay
@@ -122,6 +122,12 @@ aspellCheck vocabulary
 ##### results:
 ![](https://i.imgur.com/q3ZL0xt.png)
 
+
+### Prefix Root Suffix Query
+Query all possible part of your input.
+
+##### results:
+![](https://i.imgur.com/PqO7Wpd.png)
 
 
 

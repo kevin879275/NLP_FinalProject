@@ -63,11 +63,11 @@ acheck I'm going to kill you soon
 ### Root/Prefix Query
 Get the root/prefix which is same meaning of your input.
 ##### alias(also can be command):
-1. rq
-2. rootQuery
+1. pq
+2. prefixQuery
 ##### command:
 ```shell
-arootQuery vocabulary
+aprefixQuery vocabulary
 ```
 ##### results:
 ![](https://i.imgur.com/EFH9csJ.png)

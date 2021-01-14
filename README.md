@@ -70,7 +70,7 @@ Get the root/prefix which is same meaning of your input.
 aprefixQuery vocabulary
 ```
 ##### results:
-![](https://i.imgur.com/EFH9csJ.png)
+![](https://i.imgur.com/slEwkzy.png)
 
 ### Suffix Query
 Get the suffix which is same meaning of your input.
